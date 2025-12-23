@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+outputs/
+unsloth_compiled_cache/
+gemma2_koalpaca_adapter/
+gemma2_neobiotech_adapter/
