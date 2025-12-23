@@ -1,0 +1,970 @@
+{"instruction": "ALX 임플란트의 'AnyTime Loading' 컨셉이 무엇인지 설명해줘.", "input": "", "output": "AnyTime Loading은 네오바이오텍의 독자적인 컨셉으로, 임플란트 식립 직후 기계적 고정력이 떨어지는 'Stability Dip' 구간을 기술적으로 극복하여 수술 당일이나 조기에 보철물을 로딩해도 안정성을 유지하는 프로토콜입니다."}
+{"instruction": "ALX 임플란트가 'Graft Less'를 실현할 수 있는 이유는?", "input": "", "output": "ALX는 2.0mm부터 6.5mm까지 5가지의 다양한 Cuff Length를 제공합니다. 이 덕분에 치조골 높이가 다르거나 경사진 부위에서도 GBR(골이식) 없이 식립이 가능하여 시술 시간과 비용을 줄여줍니다."}
+{"instruction": "ALX 임플란트의 Narrow Core 디자인의 장점은?", "input": "", "output": "Narrow Core 디자인은 임플란트 몸체(Core)는 얇게 유지하면서 나사산(Thread)은 깊게 설계한 것입니다. 이는 드릴링 양을 최소화하여 뼈를 보존하고, 좁은 골폭에서도 높은 고정력을 얻게 해줍니다."}
+{"instruction": "ALX 임플란트의 Flapless 수술이 환자에게 주는 이점은?", "input": "", "output": "잇몸을 절개하지 않는 Flapless 수술은 출혈과 붓기를 최소화하여 환자의 통증을 줄이고 회복 시간을 획기적으로 단축시킵니다. 특히 ALX는 이 수술법에 최적화된 디자인을 가지고 있습니다."}
+{"instruction": "ALX 임플란트의 직경(Diameter) 라인업을 알려줘.", "input": "", "output": "ALX 임플란트는 최소 Ø4.5부터 최대 Ø7.0까지 다양한 직경을 제공하여 좁은 골폭부터 발치 후 즉시 식립 케이스까지 폭넓게 적용 가능합니다."}
+{"instruction": "ALX 임플란트의 Fixture 길이(Length) 범위는?", "input": "", "output": "5.0mm 숏 임플란트부터 14.0mm 롱 임플란트까지 제공됩니다. 특히 5.0mm 모델은 신경관 간섭이 우려되는 하악 구치부 등에 유용합니다."}
+{"instruction": "ALX 임플란트의 'Deep Thread' 설계의 역할은?", "input": "", "output": "Deep Thread는 뼈와 닿는 면적을 넓혀주어 강한 초기 고정력을 확보하고, 교합압을 효과적으로 분산시켜 임플란트 주위 뼈가 흡수되는 것을 방지합니다."}
+{"instruction": "ALX 임플란트 시술 시 권장되는 드릴링 속도는?", "input": "", "output": "일반적으로 저속 드릴링을 권장하여 뼈의 과열(Heating)을 방지하고 골세포 손상을 최소화해야 합니다. (정확한 RPM은 수술 키트 매뉴얼 참조)"}
+{"instruction": "ALX 임플란트의 커넥션(Connection) 타입은?", "input": "", "output": "ALX는 3.1 Octagon 구조와 8도 Morse Taper가 결합된 내부 체결 구조를 가지며, 이는 네오바이오텍의 IT System과 호환됩니다."}
+{"instruction": "ALX 임플란트의 Self-tapping 기능이란?", "input": "", "output": "ALX의 날카로운 Cutting Edge 덕분에 단단한 D1, D2 골질에서도 임플란트가 스스로 나사산을 만들며 들어가는 기능을 말합니다. 이는 식립 토크를 조절하고 과도한 압력을 막아줍니다."}
+{"instruction": "IT-III active 임플란트의 주요 특징을 요약해줘.", "input": "", "output": "IT-III active는 One Stage 시술이 가능한 Tissue Level 임플란트로, S.L.A. 표면 처리를 통해 골유착을 촉진하고 Straight Neck 디자인으로 파절 위험을 줄인 제품입니다."}
+{"instruction": "IT-III active의 S.L.A. 표면 처리가 중요한 이유는?", "input": "", "output": "S.L.A.(Sandblasted, Large-grit, Acid-etched) 처리는 표면적을 넓혀 골세포 부착을 돕습니다. 이는 골유착 기간을 단축시켜 조기 로딩(Early Loading)을 가능하게 하는 핵심 기술입니다."}
+{"instruction": "IT-III active의 Gingiva Collar가 1.8mm와 2.8mm로 나뉜 이유는?", "input": "", "output": "환자마다 잇몸(Gingiva)의 높이가 다르기 때문입니다. 이원화된 G.Collar는 다양한 치주 환경에 맞춰 최적의 생물학적 폭경을 확보하고 심미적인 결과를 돕습니다."}
+{"instruction": "IT-III active의 Straight Neck 디자인의 장점은?", "input": "", "output": "목 부위를 직선형(Straight)으로 두껍게 보강하여 씹는 힘(교합압)에 의한 임플란트 파절을 예방하고, 식립 깊이를 자유롭게 조절할 수 있습니다."}
+{"instruction": "IT-III active는 어떤 커넥션을 사용하나요?", "input": "", "output": "IT-III active는 Ø4.8 Platform을 기준으로 3.1 Octa 내부 구조와 8도 Morse Taper를 사용하여 기존 IT System 보철물과 완벽하게 호환됩니다."}
+{"instruction": "IT-III active의 Wide Cutting Edge의 역할은?", "input": "", "output": "임플란트 하단부의 넓은 날(Edge)은 식립 시 뼈를 부드럽게 깎고 들어가며, 초기 고정력을 높여주고 식립감을 향상시킵니다."}
+{"instruction": "IT-III active의 'Semi-active' 나사산이란?", "input": "", "output": "뼈를 과도하게 압박하지 않으면서도 충분한 고정력을 얻을 수 있도록 설계된 나사산 형태로, 골괴사(Bone Necrosis) 위험을 줄여줍니다."}
+{"instruction": "IT-III active의 Regular Neck과 Wide Neck의 차이는?", "input": "", "output": "Regular Neck은 일반적인 케이스에, Wide Neck은 대구치(어금니)처럼 더 넓은 보철물 지지가 필요한 경우에 사용됩니다."}
+{"instruction": "IT-III active 시술 시 One Stage 수술의 장점은?", "input": "", "output": "임플란트 식립과 동시에 힐링 어버트먼트를 체결하여 2차 수술 과정을 생략할 수 있어 환자의 내원 횟수와 치료 기간을 줄여줍니다."}
+{"instruction": "IT-III active 카탈로그에 나온 'Bio-Seal' 효과란?", "input": "", "output": "임플란트 상부의 미세한 홈(Micro Groove)이 연조직과 결합하여 세균 침투를 막는 씰링(Sealing) 역할을 하여 임플란트 주위염을 예방하는 효과입니다."}
+{"instruction": "NEO CHAIR M5의 두 가지 타입(M5-C, M5-M)의 차이점은?", "input": "", "output": "M5-C(Cart Type)는 진료 테이블에 바퀴가 있어 이동이 자유롭고, M5-M(Mount Type)은 체어 본체에 테이블이 고정되어 있어 안정적인 동선을 제공합니다."}
+{"instruction": "NEO CHAIR M5에 적용된 핸드피스 옵션 브랜드는?", "input": "", "output": "독일의 KaVo(E600L 등)와 일본의 NSK(M900L 등)와 같은 세계적인 명품 핸드피스 브랜드를 옵션으로 선택할 수 있습니다."}
+{"instruction": "NEO CHAIR M5의 수관 세척 시스템이 필요한 이유는?", "input": "", "output": "치과 용수의 위생은 환자 감염 관리와 직결됩니다. M5의 수관 세척 시스템은 바이오필름을 억제하고 깨끗한 물을 공급하여 교차 감염을 방지합니다."}
+{"instruction": "NEO CHAIR M5의 닥터 테이블 터치 패드의 특징은?", "input": "", "output": "직관적인 아이콘과 반응형 터치 패널을 적용하여 의사가 진료 중에도 체어 포지션이나 핸드피스 설정을 간편하게 조작할 수 있습니다."}
+{"instruction": "NEO CHAIR M5의 시트(Sheet) 관리 방법은?", "input": "", "output": "고급 인조가죽 소재를 사용하여 내구성이 뛰어나며, 전용 클리너로 닦아내기만 하면 되어 오염 관리가 쉽고 위생적입니다."}
+{"instruction": "NEO CHAIR M5의 기계실 옵션 중 컴프레서 사양은?", "input": "", "output": "진료 규모에 따라 DBCOM 2.0(2.5마력) 또는 DBCOM 3.0(3.5마력) 모델 등을 선택할 수 있어 안정적인 에어 공급이 가능합니다."}
+{"instruction": "NEO CHAIR M5의 보조 테이블(Assistant Table) 기능은?", "input": "", "output": "치과 위생사를 위해 넓은 공간과 회전형 암을 제공하며, 석션 및 3-way 시린지 조작이 편리하도록 인체공학적으로 설계되었습니다."}
+{"instruction": "NEO CHAIR M5 런칭 시 강조한 슬로건은?", "input": "", "output": "'Become the new standard for Unit Chair(유닛체어의 새로운 기준이 되다)'라는 슬로건을 내걸고 내구성과 편의성을 대폭 강화했습니다."}
+{"instruction": "NEO CHAIR M5의 LED 진료등(Light)의 장점은?", "input": "", "output": "그림자를 최소화하는 무영등 효과와 자연광에 가까운 색온도를 제공하여, 의사의 눈 피로를 줄이고 정확한 색조 확인을 돕습니다."}
+{"instruction": "NEO CHAIR M5의 유지보수(AS) 정책의 장점은?", "input": "", "output": "네오바이오텍의 전국적인 AS 망을 통해 신속한 부품 수급과 엔지니어 방문이 가능하여 진료 공백을 최소화합니다."}
+{"instruction": "IS System의 'CMI Fixation'이란 무엇인가요?", "input": "", "output": "CMI는 Crestal, Middle, Inferior 골질 어디서든 최적의 고정력을 얻는다는 뜻입니다. Tapered Body 디자인이 뼈를 압축하며 고정력을 극대화합니다."}
+{"instruction": "IS-III active의 'Micro Groove' 디자인의 기능은?", "input": "", "output": "플랫폼 상단에 있는 미세한 홈이 잇몸 뼈의 소실을 막고 연조직 부착을 유도하여 임플란트 수명을 늘리는 역할을 합니다."}
+{"instruction": "IS System의 'Magic Thread'란?", "input": "", "output": "역방향 나사산(Reverse Thread) 디자인을 적용하여 임플란트가 헛도는 것을 방지하고 고정력을 높여주는 특수 설계입니다."}
+{"instruction": "IS System에서 사용하는 'PickCap Impression Kit'는 무엇인가요?", "input": "", "output": "인상 채득 시 픽업(Pick-up) 타입의 정확성과 트랜스퍼(Transfer) 타입의 편리함을 합친 키트로, 빠르고 정밀한 본뜨기가 가능합니다."}
+{"instruction": "IS System의 S-Mini 임플란트 용도는?", "input": "", "output": "S-Mini는 하악 전치부 등 골폭이 좁은 부위에 식립하기 위해 직경을 얇게 만든 일체형 또는 분리형 임플란트입니다."}
+{"instruction": "IS System의 커넥션 구조는?", "input": "", "output": "11도 Morse Taper와 Internal Hex 구조를 사용하여 틈새 없이 단단하게 결합되며 세균 침투를 차단합니다."}
+{"instruction": "IS-III active가 기존 IS-II active보다 개선된 점은?", "input": "", "output": "바디 디자인을 강화하여 파절 강도를 높이고, Micro Groove를 추가하여 골 손실 방지 기능을 업그레이드했습니다."}
+{"instruction": "IS System의 표면 처리 방식은?", "input": "", "output": "초기 RBM 방식에서 발전하여 현재는 골유착 성능이 뛰어난 S.L.A. 표면 처리를 주력으로 사용합니다."}
+{"instruction": "네오바이오텍의 'Sinus Quick' 임플란트의 특징은?", "input": "", "output": "상악동 거상술 시 초기 고정력을 얻기 어려운 상황에서도 Tapered 디자인으로 고정력을 확보하기 쉽게 설계된 초기 모델입니다."}
+{"instruction": "IS System 식립 시 'Over-torque'를 주의해야 하는 이유는?", "input": "", "output": "과도한 토크는 뼈에 압력을 주어 골괴사를 유발할 수 있으므로, 권장 토크(보통 35~45 Ncm) 범위를 지키는 것이 중요합니다."}
+{"instruction": "네오바이오텍 임상증례의 'Punching Technique'이란?", "input": "", "output": "잇몸을 절개하지 않고 전용 펀치로 구멍만 뚫어 임플란트를 심는 기법으로, 최소 침습을 통해 환자의 통증을 줄여줍니다."}
+{"instruction": "상악동 거상술(Sinus Lift) 케이스에서 ALX의 장점은?", "input": "", "output": "잔존 골이 부족한 상악동 부위에서도 ALX의 깊은 나사산이 초기 고정력을 확보해주어, 뼈 이식과 동시에 식립이 가능하게 합니다."}
+{"instruction": "임플란트 식립 후 '1-Week Loading'이 가능한 조건은?", "input": "", "output": "식립 토크가 35 Ncm 이상 나오고 ISQ(임플란트 안정도) 수치가 70 이상일 때, ALX나 IT-III 같은 AnyTime Loading 제품을 사용하면 가능합니다."}
+{"instruction": "네오바이오텍의 '3S Spirit' 철학은?", "input": "", "output": "Simple(간단하게), Safe(안전하게), Speedy(빠르게)의 약자로, 시술자와 환자 모두에게 최적의 결과를 제공하려는 개발 철학입니다."}
+{"instruction": "발치 후 즉시 식립(Immediate Placement) 시 ALX Ø7.0의 역할은?", "input": "", "output": "어금니 발치 후 넓어진 구멍(Socket)을 Ø7.0 광폭 임플란트로 꽉 채워줌으로써 별도의 뼈 이식 없이도 초기 고정력을 얻게 해줍니다."}
+{"instruction": "전치부(앞니) 심미 임플란트 시 IT-III active의 이점은?", "input": "", "output": "Tissue Level 디자인과 이원화된 G.Collar 덕분에 잇몸 라인을 자연스럽게 형성할 수 있어 심미적인 보철 제작에 유리합니다."}
+{"instruction": "네오바이오텍 GBR Kit의 용도는?", "input": "", "output": "뼈 이식이 필요한 경우, 멤브레인(막)을 고정하거나 뼈를 다루는 데 특화된 기구들을 모아둔 키트입니다."}
+{"instruction": "임상증례집 Case 10의 'Replacement' 케이스란?", "input": "", "output": "실패하거나 오래된 기존 임플란트를 제거하고, 그 자리에 ALX 임플란트를 다시 심어 기능을 회복시킨 고난도 사례입니다."}
+{"instruction": "만성 치주염 환자에게 ALX 임플란트가 적합한 이유는?", "input": "", "output": "Graft Less 컨셉으로 수술 침습도를 줄이고, S.L.A. 표면이 약해진 뼈에서도 빠른 골유착을 유도하기 때문입니다."}
+{"instruction": "무치악 환자(Edentulous)의 전악 수복 시 네오바이오텍 솔루션은?", "input": "", "output": "Varoguide(바로가이드)와 같은 디지털 가이드를 활용하여 다수의 임플란트를 정확한 위치에 식립하고, AnyTime Loading으로 빠른 기능 회복을 돕습니다."}
+{"instruction": "ALX 임플란트 5.0mm 숏 픽스쳐의 주 사용처는?", "input": "", "output": "하치조 신경까지의 거리가 짧아 긴 임플란트를 심기 위험한 하악 구치부 케이스에 주로 사용됩니다."}
+{"instruction": "ALX 임플란트의 포장(Package) 방식은?", "input": "", "output": "멸균된 앰플에 담겨 있으며, 픽스쳐가 오염되지 않도록 No-touch 방식으로 꺼낼 수 있게 설계되어 있습니다."}
+{"instruction": "ALX 임플란트 식립 시 권장되는 드릴링 시퀀스는?", "input": "", "output": "Point Drill -> Twist Drill (단계별 확장) -> Cortical Tap (필요시) 순서로 진행하며, 골질에 따라 단계를 조절합니다."}
+{"instruction": "IT-III active의 Internal Hex 사이즈는?", "input": "", "output": "2.5mm Hex 사이즈를 채택하여 드라이버 체결력이 우수하고 변형이 적습니다."}
+{"instruction": "네오바이오텍의 'SR Kit'는 무엇인가요?", "input": "", "output": "Screw Removal Kit의 약자로, 임플란트 내부에서 나사가 부러졌을 때 이를 안전하게 제거할 수 있는 구난 키트입니다."}
+{"instruction": "네오바이오텍의 'FR Kit'는 무엇인가요?", "input": "", "output": "Fixture Removal Kit의 약자로, 실패한 임플란트를 뼈 손상 없이 안전하게 제거할 때 사용하는 전용 키트입니다."}
+{"instruction": "IS-III active의 바디 디자인이 역테이퍼(Reverse Taper)인 부위는?", "input": "", "output": "상부 3~4mm 구간에 역테이퍼를 주어 잇몸 뼈에 가해지는 압력을 줄이고 골 흡수를 예방합니다."}
+{"instruction": "M5 유닛체어의 바닥 고정 방식은?", "input": "", "output": "베이스 플레이트를 사용하여 바닥에 앙카 볼트로 단단히 고정하므로 진료 중 체어의 흔들림이 없습니다."}
+{"instruction": "M5 체어의 헤드레스트(Headrest) 조절 기능은?", "input": "", "output": "2관절 꺽임 기능을 제공하여 소아 환자나 휠체어 환자 등 다양한 포지셔닝이 가능합니다."}
+{"instruction": "ALX 임플란트의 나사산 피치(Pitch) 간격은?", "input": "", "output": "0.8mm~0.9mm 내외의 광폭 피치를 적용하여 뼈 사이의 혈류 공급을 원활하게 하고 골유착을 돕습니다."}
+{"instruction": "IT-III active의 식립 깊이는 어디에 맞춰야 하나요?", "input": "", "output": "Rough Surface(거친 표면)와 Machined Surface(매끈한 표면)의 경계 부위를 치조골 높이에 맞추거나 약간 깊게 식립하는 것을 권장합니다."}
+{"instruction": "네오바이오텍의 디지털 덴티스트리 솔루션 이름은?", "input": "", "output": "'바로가이드(Varoguide)' 시스템을 통해 CT 데이터 기반의 정밀한 수술 가이드를 제작합니다."}
+{"instruction": "ALX 임플란트 앰플 개봉 후 주의사항은?", "input": "", "output": "표면이 오염되지 않도록 즉시 식립해야 하며, 타액이나 혈액이 묻지 않도록 주의해야 합니다."}
+{"instruction": "IS System의 Cover Screw는 포함되어 있나요?", "input": "", "output": "일반적으로 픽스쳐 패키지 내에 Cover Screw가 포함되어 있지 않으며 별도로 구매하거나 힐링 어버트먼트를 바로 체결합니다. (제품 구성에 따라 다를 수 있음)"}
+{"instruction": "M5 체어의 오토 컵 필러(Auto Cup Filler) 기능이란?", "input": "", "output": "센서가 컵을 감지하여 환자가 양치할 물을 자동으로 적정량만큼 채워주는 편의 기능입니다."}
+{"instruction": "네오바이오텍 창립자는 누구인가요?", "input": "", "output": "허영구 대표원장(Dr. Heo Young-Ku)이 창립하였으며, 현직 치과의사로서 제품 개발을 주도하고 있습니다."}
+{"instruction": "ALX 임플란트의 임상 성공률 데이터는 있나요?", "input": "", "output": "네오바이오텍 내부 임상 연구 및 다수의 논문을 통해 98% 이상의 높은 생존율과 성공률이 보고되고 있습니다."}
+{"instruction": "IT-III active 사용 시 1차 수술 실패 원인은 주로 무엇인가요?", "input": "", "output": "초기 고정력 부족이나 감염, 또는 환자의 조절되지 않는 당뇨와 같은 전신 질환이 주원인이 될 수 있습니다."}
+{"instruction": "네오바이오텍의 심포지엄 행사는 무엇인가요?", "input": "", "output": "'네오바이오텍 월드 심포지엄'을 주기적으로 개최하여 전 세계 치과의사들과 최신 임상 지견을 공유합니다."}
+{"instruction": "ALX 임플란트의 'Load Bearing Capacity'란?", "input": "", "output": "임플란트가 수직적으로 견딜 수 있는 하중의 한계를 의미하며, ALX는 두꺼운 벽 구조로 인해 파절 저항성이 매우 높습니다."}
+{"instruction": "IS System의 보철 체결 토크 권장값은?", "input": "", "output": "어버트먼트 스크류 체결 시 30~35 Ncm의 토크를 권장하여 나사 풀림을 방지합니다."}
+{"instruction": "M5 체어의 등받이(Backrest) 디자인 특징은?", "input": "", "output": "환자의 어깨를 감싸주는 슬림한 디자인으로, 술자가 환자에게 더 가까이 접근할 수 있어 진료 자세가 편안합니다."}
+{"instruction": "ALX 임플란트의 2.0 Cuff는 언제 쓰나요?", "input": "", "output": "잇몸 두께가 얇거나 심미적으로 중요한 전치부 부위에서 금속 노출을 최소화하기 위해 사용합니다."}
+{"instruction": "IT-III active의 2.8 Cuff는 언제 쓰나요?", "input": "", "output": "구치부처럼 잇몸이 두꺼운 부위에서 보철물 연결 부위를 잇몸 위로 확실히 노출시키기 위해 사용합니다."}
+{"instruction": "네오바이오텍의 'AnyCheck' 기기는 무엇인가요?", "input": "", "output": "타진 방식의 임플란트 동요도 측정기로, 힐링 어버트먼트를 풀지 않고도 골유착 강도(IST 값)를 측정할 수 있는 장비입니다."}
+{"instruction": "ALX 임플란트 식립 후 엑스레이 판독 포인트는?", "input": "", "output": "픽스쳐와 치조골 사이의 틈(Gap) 유무와 나사산이 뼈에 얼마나 깊이 물렸는지를 확인해야 합니다."}
+{"instruction": "IS System의 힐링 어버트먼트 재사용이 가능한가요?", "input": "", "output": "힐링 어버트먼트는 일회용 의료기기로 허가받았으므로, 감염 방지를 위해 재사용을 금지하고 있습니다."}
+{"instruction": "M5 체어의 풋 컨트롤러(Foot Controller) 기능은?", "input": "", "output": "발로 체어 위치 조절, 핸드피스 속도 제어, 물 분사 여부 등을 조작하여 교차 감염을 줄입니다."}
+{"instruction": "네오바이오텍 임플란트의 MRI 촬영 안전성은?", "input": "", "output": "티타늄 소재는 자성이 없으므로 MRI 촬영 시 안전하지만, 영상에 약간의 왜곡(Artifact)이 생길 수는 있습니다."}
+{"instruction": "ALX 임플란트의 보증 기간은?", "input": "", "output": "일반적으로 정품 사용 시 장기적인 보증 정책을 제공하며, 자세한 내용은 네오바이오텍 보증 프로그램을 확인해야 합니다."}
+{"instruction": "IT-III active와 호환되는 타사 시스템은?", "input": "", "output": "스트라우만(Straumann)의 Tissue Level 시스템과 규격이 유사하여 일부 보철 호환이 가능하지만, 정품 사용을 권장합니다."}
+{"instruction": "IS System의 어버트먼트 종류는?", "input": "", "output": "일반형(Solid), 시멘트형(Cement), 앵글형(Angled), 밀링형(Milling) 등 다양한 보철 옵션을 제공합니다."}
+{"instruction": "M5 체어 가죽 시트 색상은 몇 가지인가요?", "input": "", "output": "블랙, 네이비, 버건디 등 치과 인테리어에 어울리는 다양한 프리미엄 컬러 옵션을 제공합니다."}
+{"instruction": "ALX 임플란트의 드릴링 시 주수(Irrigation)가 중요한 이유는?", "input": "", "output": "드릴 마찰열로 인한 뼈의 괴사를 막기 위해 충분한 식염수 주수가 필수적입니다."}
+{"instruction": "네오바이오텍의 'T-Brush'는 무엇인가요?", "input": "", "output": "임플란트 주위염 치료 시 픽스쳐 표면의 염증과 이물질을 기계적으로 제거하는 전용 브러쉬입니다."}
+{"instruction": "ALX 임플란트의 멸균 유효 기간은?", "input": "", "output": "포장재에 표기된 제조일로부터 보통 5년입니다."}
+{"instruction": "IS System의 라이브 서저리(Live Surgery) 자료는 어디서 보나요?", "input": "", "output": "네오바이오텍 유튜브 채널이나 공식 홈페이지의 임상 게시판에서 다양한 케이스 영상을 확인할 수 있습니다."}
+{"instruction": "M5 체어 설치 시 필요한 공간 크기는?", "input": "", "output": "체어의 리클라이닝 반경과 술자의 동선을 고려하여 최소 가로 2.5m, 세로 3.0m 이상의 공간이 권장됩니다."}
+{"instruction": "IT-III active 식립 시 토크 렌치 사용법은?", "input": "", "output": "최종 식립 단계에서 토크 렌치를 이용해 천천히 돌려 넣으며, 과도한 힘이 들어가지 않도록 눈금을 확인합니다."}
+{"instruction": "네오바이오텍 제품 주문 방법은?", "input": "", "output": "지역 담당 영업사원(MR)에게 연락하거나 네오바이오텍 온라인 쇼핑몰(네오몰)을 통해 주문할 수 있습니다."}
+{"instruction": "ALX 임플란트와 관련된 논문이 있나요?", "input": "", "output": "네, 국내외 학술지에 ALX의 AnyTime Loading 성공률과 임상 예후에 관한 다수의 논문이 게재되어 있습니다."}
+{"instruction": "IS-III active 식립 후 주의사항은?", "input": "", "output": "수술 당일은 뜨거운 음식과 빨대 사용을 피하고, 처방된 약을 복용하며 흡연과 음주를 금해야 합니다."}
+{"instruction": "M5 체어의 석션 필터 청소 주기는?", "input": "", "output": "매일 진료 마감 후 필터를 분리하여 이물질을 제거하고 세척하는 것을 권장합니다."}
+{"instruction": "ALX 임플란트의 표면 거칠기(Ra 값)는?", "input": "", "output": "S.L.A. 표면의 평균 거칠기는 골유착에 최적화된 1.5~2.0µm 수준을 유지합니다."}
+{"instruction": "네오바이오텍의 본사 위치는?", "input": "", "output": "강원도 원주시에 본사와 생산 공장이 있으며, 서울 구로구에 서울 사무소를 두고 있습니다."}
+{"instruction": "IT-III active의 식립 간격은?", "input": "", "output": "인접 치아와는 최소 1.5mm, 인접 임플란트와는 최소 3.0mm의 간격을 유지해야 뼈의 혈류가 유지됩니다."}
+{"instruction": "IS System의 골유착 기간은 보통 얼마인가요?", "input": "", "output": "하악은 2~3개월, 상악은 3~6개월 정도를 표준으로 보지만, 초기 고정력이 좋으면 더 단축될 수 있습니다."}
+{"instruction": "M5 체어의 LED 라이트 조도 조절은 가능한가요?", "input": "", "output": "네, 센서를 통해 손을 대지 않고도 단계별로 밝기를 조절할 수 있어 감염 방지에 효과적입니다."}
+{"instruction": "ALX 임플란트의 실패 시 재수술 정책은?", "input": "", "output": "초기 실패 시 무상 교환 등의 AS 정책이 있으며, 정확한 조건은 영업 담당자와 상의해야 합니다."}
+{"instruction": "마지막으로, 네오바이오텍 제품을 한마디로 정의한다면?", "input": "", "output": "'치과의사에게는 시술의 편리함을, 환자에게는 편안함과 빠른 회복을 제공하는 혁신적인 솔루션'입니다."}
+{"instruction": "네오바이오텍의 'Neo Master Kit' 구성과 용도는?", "input": "", "output": "Neo Master Kit는 다양한 임플란트 수술에 필요한 드릴과 기구를 통합한 올인원 키트입니다. 초보자부터 숙련자까지 모든 임상 케이스에 대응할 수 있도록 직관적으로 구성되어 있습니다."}
+{"instruction": "임플란트 식립 시 'Point Drill'의 역할은?", "input": "", "output": "수술 부위의 피질골(Cortical Bone)을 뚫어 정확한 식립 위치를 표시(Marking)하고, 후속 드릴이 미끄러지지 않도록 가이드 역할을 합니다."}
+{"instruction": "ALX 임플란트 식립을 위한 'Stop Drill'의 기능은?", "input": "", "output": "드릴에 스토퍼(Stopper) 구조가 있어, 계획된 깊이 이상으로 드릴이 들어가는 것을 물리적으로 막아주어 신경 손상 등을 예방하고 안전한 시술을 돕습니다."}
+{"instruction": "IS System의 'Cortical Tap'은 언제 사용하나요?", "input": "", "output": "D1, D2처럼 뼈가 매우 단단한 경우, 임플란트 식립 전 미리 나사길을 만들어주어 과도한 식립 토크와 뼈의 압박 괴사를 방지하기 위해 사용합니다."}
+{"instruction": "네오바이오텍의 'Sinus All Kit'의 특징은?", "input": "", "output": "상악동 거상술(Sinus Lift)에 필요한 Crestal 접근과 Lateral 접근 기구를 모두 포함하고 있어, 모든 상악동 수술 케이스를 하나의 키트로 해결할 수 있습니다."}
+{"instruction": "임플란트 수술 후 2차 수술(Second Stage Surgery)이 필요한 경우는?", "input": "", "output": "Submerged(매입형) 방식으로 수술하여 잇몸을 덮어두었을 때, 골유착이 완료된 후 힐링 어버트먼트를 연결하기 위해 잇몸을 다시 여는 과정입니다."}
+{"instruction": "네오바이오텍의 'Wide Ridge Kit'는 어떤 용도인가요?", "input": "", "output": "좁은 치조골을 벌려주어(Ridge Splitting) 임플란트 식립 공간을 확보하거나, 뼈를 확장(Expansion)시킬 때 사용하는 특수 키트입니다."}
+{"instruction": "임플란트 나사가 부러졌을 때 사용하는 'SR Kit'의 원리는?", "input": "", "output": "SR(Screw Removal) Kit는 부러진 나사(Screw) 내부에 역방향 나사산을 만들어, 반대 방향으로 돌려 빼내는 방식으로 나사를 안전하게 제거합니다."}
+{"instruction": "실패한 임플란트를 제거하는 'FR Kit'의 장점은?", "input": "", "output": "FR(Fixture Removal) Kit는 주변 뼈를 깎아내지 않고 임플란트와 뼈의 결합만 끊어내어 제거하므로, 뼈 손실을 최소화하고 즉시 재식립이 가능하게 합니다."}
+{"instruction": "나사가 헐거워지는 'Screw Loosening'의 주요 원인은?", "input": "", "output": "교합력이 과도하거나 측방압이 작용할 때, 또는 초기 체결 토크가 부족할 때 발생할 수 있습니다. 네오바이오텍은 이를 방지하기 위해 Morse Taper 구조를 적용합니다."}
+{"instruction": "임플란트 제거 후 'Immediate Re-implantation' 시 고려사항은?", "input": "", "output": "제거된 부위의 염증을 완전히 긁어내고(Curettage), 픽스쳐 직경을 한 단계 넓은 것으로 선택하여 초기 고정력을 다시 확보해야 합니다."}
+{"instruction": "네오바이오텍의 'Varoguide(바로가이드)' 시스템이란?", "input": "", "output": "병원에서 30분 내에 수술 가이드(Surgical Guide)를 직접 제작할 수 있는 디지털 임플란트 솔루션으로, CT와 구강 스캔 데이터를 정합하여 정확한 식립 위치를 잡아줍니다."}
+{"instruction": "Varoguide 사용 시 'Pre-operation' 단계에서 하는 일은?", "input": "", "output": "환자의 구강 내에 특수 트레이(Pre-Guide)를 물리고 CT를 촬영하여, 임플란트 식립 계획을 수립하는 단계입니다."}
+{"instruction": "디지털 가이드 수술의 가장 큰 장점은 무엇인가요?", "input": "", "output": "수술 전 모의 시술을 통해 신경관 위치와 뼈 상태를 파악하므로, 절개 없이 정확하고 안전하게 임플란트를 심을 수 있어 수술 실패율을 낮춥니다."}
+{"instruction": "네오바이오텍의 디지털 인상 채득용 'Scan Body'의 특징은?", "input": "", "output": "구강 스캐너가 임플란트 위치와 각도를 정확히 인식할 수 있도록 특수 형상과 재질로 제작되어, 디지털 보철 제작의 정밀도를 높입니다."}
+{"instruction": "CAD/CAM 밀링 머신인 'CAMeleon CS'의 용도는?", "input": "", "output": "치과 원내에서 지르코니아, 하이브리드 세라믹 등 다양한 보철 재료를 가공하여, 당일 보철(One-day Prosthesis) 치료를 가능하게 하는 장비입니다."}
+{"instruction": "IS-III active의 'Wide Cutting Edge'가 주는 식립감의 변화는?", "input": "", "output": "기존 제품 대비 넓어진 칼날(Edge)이 뼈를 부드럽게 파고들어, 의사가 느끼는 식립 저항감을 줄이고 원하는 깊이까지 부드럽게 들어갑니다."}
+{"instruction": "IS-III active의 Connection 부분 두께가 강화된 이유는?", "input": "", "output": "임플란트 상단부 두께를 보강하여, 씹는 힘이 강한 환자나 어금니 부위에서도 찢어지거나 부러지지 않는 강력한 내구성을 확보했습니다."}
+{"instruction": "IS-III active의 나사산 피치(Pitch)는 얼마인가요?", "input": "", "output": "0.8mm 또는 0.9mm의 피치를 적용하여(직경에 따라 상이), 골 접촉 면적을 최적화하고 식립 속도를 높였습니다."}
+{"instruction": "IS-III active S.L.A. 표면의 산 부식(Etching) 공정은 왜 필요한가요?", "input": "", "output": "샌드블라스팅으로 만든 거친 표면에 미세한 구멍(Micro-pit)을 추가로 형성하여, 골세포가 닻을 내리듯 단단하게 고정되게 하기 위함입니다."}
+{"instruction": "IS-III active 식립 시 뼈가 단단한 경우 토크 조절법은?", "input": "", "output": "45~50 Ncm 이상의 과도한 토크가 걸리면 식립을 멈추고, 역회전 후 다시 넣거나 Cortical Tap을 사용하여 뼈의 압력을 줄여줘야 합니다."}
+{"instruction": "ALX 임플란트의 7.0 직경 픽스쳐는 어떤 케이스에 특화되었나?", "input": "", "output": "대구치 발치 후 즉시 식립 시, 넓은 발치 와(Socket)를 꽉 채워 뼈 이식재 사용을 줄이고 초기 고정력을 얻는 데 특화되어 있습니다."}
+{"instruction": "ALX 임플란트의 포장 앰플 색상으로 무엇을 알 수 있나?", "input": "", "output": "앰플 뚜껑이나라벨의 색상을 통해 임플란트의 직경(Diameter)을 직관적으로 구별할 수 있도록 색상 코드(Color Code) 시스템이 적용되어 있습니다."}
+{"instruction": "ALX 임플란트의 'Bevel' 부위 디자인 특징은?", "input": "", "output": "상단부 베벨(Bevel) 처리가 되어 있어 뼈가 얇은 경우에도 응력을 분산시키고, 보철물 체결 시 잇몸 형성을 자연스럽게 유도합니다."}
+{"instruction": "ALX 임플란트 식립 후 엑스레이에서 'Bone Loss'가 관찰되지 않는 이유는?", "input": "", "output": "Platform Switching 효과와 S.L.A. 표면, 그리고 견고한 커넥션 덕분에 세균 침투가 차단되어 변연골(Marginal Bone)이 잘 유지되기 때문입니다."}
+{"instruction": "ALX 임플란트의 드릴링 시 'Bounching' 현상이란?", "input": "", "output": "드릴이 뼈를 뚫지 못하고 튀는 현상으로, 드릴 날이 무뎌졌거나 뼈가 너무 단단할 때 발생합니다. 이럴 땐 새 드릴로 교체하거나 Point Drill을 다시 사용해야 합니다."}
+{"instruction": "임플란트 주위염(Peri-implantitis)의 초기 증상은?", "input": "", "output": "잇몸에서 피가 나거나 붓고, 엑스레이 상에서 임플란트 주변 뼈가 접시 모양(Saucerization)으로 녹아내리는 소견이 관찰됩니다."}
+{"instruction": "네오바이오텍의 'i-Brush'는 언제 사용하나요?", "input": "", "output": "오픈 플랩(Open Flap) 수술 시 임플란트 표면의 염증 조직을 물리적으로 깨끗이 제거하여 표면을 다시 활성화(Re-osseointegration)시킬 때 사용합니다."}
+{"instruction": "임플란트 보철물 장착 후 환자에게 교육할 내용은?", "input": "", "output": "치간 칫솔과 워터픽 사용을 생활화하고, 딱딱하고 질긴 음식은 피하며, 6개월마다 정기 검진을 받아 나사 풀림이나 잇몸 염증을 체크해야 합니다."}
+{"instruction": "임플란트 수술 후 'Osseointegration' 실패의 징후는?", "input": "", "output": "임플란트가 흔들리거나(Mobility), 타진 시 둔탁한 소리가 나거나, 엑스레이 상에서 임플란트 주위에 검은 선(Radiolucent line)이 보일 때입니다."}
+{"instruction": "상악동 거상술 중 멤브레인이 찢어졌을 때 대처법은?", "input": "", "output": "찢어진 부위가 작다면 콜라겐 멤브레인으로 덮어 보강하고, 크다면 수술을 중단하고 잇몸이 아물기를 기다린 후 재수술을 계획합니다."}
+{"instruction": "네오바이오텍 'Gingiva Former'의 역할은?", "input": "", "output": "2차 수술 후 잇몸이 치아 모양으로 예쁘게 아물도록 도와주는 뚜껑(Healing Abutment) 역할을 하며, 심미적인 잇몸 라인을 형성합니다."}
+{"instruction": "IS System의 'Angled Abutment'는 언제 쓰나요?", "input": "", "output": "임플란트가 뼈의 상태 때문에 기울어져 심겨졌을 때, 보철물의 각도를 보정하여 이상적인 교합을 만들기 위해 사용합니다."}
+{"instruction": "M5 체어의 'Memory Position' 기능이란?", "input": "", "output": "의사가 가장 편안해하는 진료 위치(높이, 등받이 각도)를 저장해두고, 버튼 하나로 즉시 해당 위치로 이동시키는 편의 기능입니다."}
+{"instruction": "M5 체어의 헤드레스트는 어린이 환자에게 맞나요?", "input": "", "output": "네, 2관절 꺽임 헤드레스트를 최대한 낮추거나 각도를 조절하면 키가 작은 소아 환자의 머리도 편안하게 받쳐줄 수 있습니다."}
+{"instruction": "네오바이오텍 픽스쳐의 티타늄 등급(Grade)은?", "input": "", "output": "생체 친화성과 강도가 가장 우수한 Grade 4 순수 티타늄(Pure Titanium) 소재를 사용하여 뼈와의 결합력을 높였습니다."}
+{"instruction": "임플란트 수술 시 'Guide Pin'의 용도는?", "input": "", "output": "드릴링 후 구멍에 꽂아 식립 방향(Path)과 깊이, 그리고 주변 치아와의 간격을 눈으로 확인하기 위한 핀입니다."}
+{"instruction": "네오바이오텍의 'Titanium Mesh'는 어디에 쓰나요?", "input": "", "output": "광범위한 골 결손 부위에 뼈 이식을 할 때, 이식재가 흩어지지 않고 원하는 모양대로 뼈가 차오르도록 지지해주는 금속 막입니다."}
+{"instruction": "ALX 임플란트의 14.0mm 길이는 주로 어디에 쓰나요?", "input": "", "output": "발치 즉시 식립 시 초기 고정력을 얻기 위해 깊은 곳의 뼈(Basal Bone)까지 도달해야 하거나, 뼈가 매우 무른 상악 전치부 등에서 고정을 얻기 위해 사용합니다."}
+{"instruction": "IT-III active의 식립 깊이는 Bone Level 기준 어디인가요?", "input": "", "output": "Tissue Level 임플란트이므로, 거친 표면(Rough Surface)이 끝나는 지점이 치조골(Bone Level)과 일치하거나 0.5mm 정도 깊게 위치하도록 심습니다."}
+{"instruction": "IS System의 'Cover Screw' 체결 시 사용하는 드라이버는?", "input": "", "output": "1.2 Hex Driver를 사용하여 손으로 가볍게(5~8 Ncm) 체결합니다. 너무 세게 조이면 나중에 풀기 어렵습니다."}
+{"instruction": "네오바이오텍 제품의 'Cleanliness(청정도)' 관리 수준은?", "input": "", "output": "표면 처리 후 잔류 산(Acid)이나 이물질이 없도록 수차례의 초음파 세척과 전수 검사를 거쳐 무균실에서 포장됩니다."}
+{"instruction": "임상증례집 Case 5의 'Crestal Approach'는 어떤 방식인가요?", "input": "", "output": "잇몸 뼈 위쪽(Crest)에서부터 상악동 막을 들어 올리는 방식으로, 측면 접근법(Lateral)보다 덜 침습적이고 수술 후 붓기가 적습니다."}
+{"instruction": "네오바이오텍의 'PickCap' 인상 채득 후 랩(Lab) 아날로그 연결법은?", "input": "", "output": "구강에서 빼낸 픽캡 코핑에 임플란트 아날로그를 딸깍 소리가 나도록 끼운 후, 석고를 부어 모델을 제작합니다."}
+{"instruction": "IS System 보철의 'Cement type'과 'Screw type'의 차이는?", "input": "", "output": "Cement type은 보철물을 접착제로 붙이는 방식이고, Screw type은 나사로 고정하는 방식입니다. 최근엔 두 장점을 합친 SCRP 타입이 많이 쓰입니다."}
+{"instruction": "M5 체어의 스피툰(Spittoon) 재질은?", "input": "", "output": "내화학성이 강한 유리(Glass) 또는 세라믹 소재를 사용하여 변색되지 않고 청소가 용이하며 위생적입니다."}
+{"instruction": "네오바이오텍 'CTi-mem'은 무엇인가요?", "input": "", "output": "맞춤형 티타늄 멤브레인(Customized Titanium Membrane)으로, 잘라 쓰거나 구부릴 필요 없이 결손 부위 모양에 맞는 제품을 선택해 바로 쓸 수 있습니다."}
+{"instruction": "임플란트 식립 토크가 10 Ncm 이하로 너무 낮으면?", "input": "", "output": "초기 고정이 실패한 것으로 간주하여, 더 넓은 직경의 임플란트로 교체하거나 힐링 기간을 충분히(4~6개월) 가져가야 합니다."}
+{"instruction": "네오바이오텍의 'Osteotome Kit' 용도는?", "input": "", "output": "뼈가 무른 상악 구치부에서 뼈를 다져서(Condensing) 단단하게 만들거나, 상악동 막을 조심스럽게 들어 올릴 때 사용하는 기구 세트입니다."}
+{"instruction": "ALX 임플란트의 'Load Protocol' 결정 기준은?", "input": "", "output": "ISQ(임플란트 안정도) 값이 70 이상이고 식립 토크가 35~45 Ncm이면 즉시 로딩이 가능하며, 그 미만이면 지연 로딩(Delayed Loading)을 선택합니다."}
+{"instruction": "M5 체어의 풋 페달은 유선인가요 무선인가요?", "input": "", "output": "기본적으로 유선 방식이 안정적이나, 최신 모델에서는 옵션으로 무선 풋 컨트롤러를 선택하여 선 없는 깔끔한 진료실을 만들 수 있습니다."}
+{"instruction": "네오바이오텍의 'EB System'은 무엇인가요?", "input": "", "output": "External Butt joint의 약자로, 외부 육각(External Hex) 구조를 가진 초기 임플란트 시스템입니다. 현재는 내부 체결형(Internal)인 IS System이 주력입니다."}
+{"instruction": "임플란트 수술 전 파노라마(Panorama) 사진으로 확인해야 할 것은?", "input": "", "output": "신경관의 위치, 상악동의 높이, 인접 치아의 뿌리 방향, 그리고 치조골의 전반적인 상태를 확인하여 식립 계획을 세웁니다."}
+{"instruction": "IS-III active의 포장 개봉 시 멸균 상태 확인법은?", "input": "", "output": "앰플 내부의 멸균 지시지(Indicator) 색상이 변했는지 확인하고, 포장이 뜯기거나 구멍 난 곳이 없는지 체크해야 합니다."}
+{"instruction": "M5 체어의 'Emergency Stop' 기능은?", "input": "", "output": "진료 중 위급 상황 발생 시, 풋 페달이나 테이블의 비상 버튼을 누르면 체어의 모든 동작이 즉시 멈추는 안전 기능입니다."}
+{"instruction": "네오바이오텍 제품의 해외 인증 현황은?", "input": "", "output": "미국 FDA, 유럽 CE, 중국 NMPA 등 전 세계 주요 국가의 의료기기 품질 인증을 획득하여 글로벌 시장에 수출되고 있습니다."}
+{"instruction": "임상증례집의 'Bone Profile'이란?", "input": "", "output": "임플란트 주변 뼈의 높이와 형태를 다듬어주는 드릴링 과정으로, 힐링 어버트먼트나 보철물이 뼈에 걸리지 않고 완전히 체결되도록 돕습니다."}
+{"instruction": "ALX 임플란트 5.0 Cuff의 주 사용 증례는?", "input": "", "output": "잇몸 두께가 매우 두껍거나, 뼈 이식을 많이 하여 치조정이 깊어진 경우에 보철물 연결 부위를 확보하기 위해 사용합니다."}
+{"instruction": "IT-III active 식립 시 1.2 Hex Driver를 사용하는 단계는?", "input": "", "output": "식립 후 Cover Screw를 닫거나 힐링 어버트먼트를 체결할 때, 또는 최종 보철물 스크류를 조일 때 사용합니다."}
+{"instruction": "네오바이오텍의 'ISQ' 측정 장비 이름은?", "input": "", "output": "네오바이오텍에서 개발 및 판매하는 'AnyCheck'라는 장비로, 타격 방식으로 쉽고 빠르게 골유착 정도를 측정합니다."}
+{"instruction": "M5 체어의 3-way 시린지(Syringe) 기능은?", "input": "", "output": "물(Water), 공기(Air), 또는 둘을 섞은 분무(Spray)를 분사하여 치아를 세척하고 건조시키는 기본 진료 도구입니다."}
+{"instruction": "IS System의 'Open Tray' 인상 채득법은?", "input": "", "output": "가운데 구멍이 뚫린 트레이를 사용하여, 인상재가 굳은 후 긴 스크류를 풀고 트레이와 함께 코핑을 제거하는 정밀 인상법입니다."}
+{"instruction": "ALX 임플란트와 타사 헥사(Hex) 드라이버 호환성은?", "input": "", "output": "네오바이오텍은 1.2 Hex 규격을 사용하므로, 오스템 등 동일한 1.2 규격을 쓰는 타사 드라이버와 호환이 가능합니다."}
+{"instruction": "임플란트 수술 후 얼음 찜질(Ice Pack)을 하는 이유는?", "input": "", "output": "수술 부위의 혈관을 수축시켜 붓기(Buccal swelling)와 출혈을 줄이고 통증을 완화하기 위함입니다. 수술 후 48시간 동안 권장됩니다."}
+{"instruction": "네오바이오텍의 사회 공헌 활동은?", "input": "", "output": "국내외 의료 봉사 지원 및 장학 사업 등을 통해 기업의 사회적 책임을 다하고 있습니다."}
+{"instruction": "M5 체어의 컵 필러 물 양 조절은 어떻게 하나요?", "input": "", "output": "설정 모드에서 버튼을 길게 눌러 컵에 담길 물의 양을 세팅하면, 이후에는 자동으로 해당 양만큼만 급수됩니다."}
+{"instruction": "ALX 임플란트의 초기 고정력이 45 Ncm를 넘으면?", "input": "", "output": "너무 강한 압력이므로 즉시 멈추거나, 역회전하여 압력을 푼 뒤 식립 깊이를 조절해야 뼈 괴사를 막을 수 있습니다."}
+{"instruction": "네오바이오텍 픽스쳐의 표면 처리 전 세척 공정은?", "input": "", "output": "가공유(Oil)와 불순물을 제거하기 위해 여러 단계의 화학적, 물리적 세척 공정을 거쳐 순수한 티타늄 표면을 만듭니다."}
+{"instruction": "IS-III active의 사용 기간(Lifetime)은?", "input": "", "output": "관리가 잘 된다면 반영구적으로 사용할 수 있으며, 정기적인 검진과 잇몸 관리가 수명에 가장 큰 영향을 미칩니다."}
+{"instruction": "네오바이오텍의 'Gingival Mask'는 무엇인가요?", "input": "", "output": "임플란트 모델 작업 시 인공 잇몸을 재현하는 실리콘 재료로, 보철물의 잇몸 라인을 정확하게 맞추기 위해 사용합니다."}
+{"instruction": "ALX 임플란트의 나사산 깊이의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "네오바이오텍의 ALX의 식립 토크 권장 범위가 무엇인지 알려줘.", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "ALX 1.4 Cuff의 용도 사용 시 주의해야 할 점은?", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "ALX 임플란트의 S-Wide 타입의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "IT-III active의 식립 깊이 조절와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "IT-III active의 2.5 Hex 드라이버의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "IT-III active의 1.8 Cuff 장점의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "신입 직원을 위해 IS-III active의 0.9 Pitch에 대한 교육 내용을 정리해줘.", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "Neo Master Kit의 드릴 스토퍼의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "Sinus Crestal Approach 기구에 대해 자세히 설명해 주세요.", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "임플란트 주위염 예방 설계의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "고객(치과의사)이 보철물 나사 풀림 해결에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "PickCap 인상재 선택 사용 시 주의해야 할 점은?", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "임상 현장에서 M5 체어의 에어 썩션(Air Suction)가 중요한 이유는?", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "임상 현장에서 M5 체어의 회전형 타구대가 중요한 이유는?", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "ALX 임플란트의 나사산 깊이 사용 시 주의해야 할 점은?", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "신입 직원을 위해 ALX의 식립 토크 권장 범위에 대한 교육 내용을 정리해줘.", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "ALX 1.4 Cuff의 용도의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "고객(치과의사)이 ALX 임플란트의 S-Wide 타입에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "네오바이오텍의 IT-III active의 식립 깊이 조절가 무엇인지 알려줘.", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "경쟁사 제품 대비 IT-III active의 2.5 Hex 드라이버의 차별점은?", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "고객(치과의사)이 IT-III active의 1.8 Cuff 장점에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "신입 직원을 위해 IS-III active의 0.9 Pitch에 대한 교육 내용을 정리해줘.", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "Neo Master Kit의 드릴 스토퍼에 대해 자세히 설명해 주세요.", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "Sinus Crestal Approach 기구에 대해 자세히 설명해 주세요.", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "임플란트 주위염 예방 설계 사용 시 주의해야 할 점은?", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "임상 현장에서 보철물 나사 풀림 해결가 중요한 이유는?", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "PickCap 인상재 선택의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "고객(치과의사)이 M5 체어의 에어 썩션(Air Suction)에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "M5 체어의 회전형 타구대에 대해 자세히 설명해 주세요.", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "ALX 임플란트의 나사산 깊이에 대해 자세히 설명해 주세요.", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "ALX의 식립 토크 권장 범위의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "ALX 1.4 Cuff의 용도의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "신입 직원을 위해 ALX 임플란트의 S-Wide 타입에 대한 교육 내용을 정리해줘.", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "IT-III active의 식립 깊이 조절의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "IT-III active의 2.5 Hex 드라이버에 대해 자세히 설명해 주세요.", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "임상 현장에서 IT-III active의 1.8 Cuff 장점가 중요한 이유는?", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "IS-III active의 0.9 Pitch 사용 시 주의해야 할 점은?", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "네오바이오텍의 Neo Master Kit의 드릴 스토퍼가 무엇인지 알려줘.", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "Sinus Crestal Approach 기구 사용 시 주의해야 할 점은?", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "경쟁사 제품 대비 임플란트 주위염 예방 설계의 차별점은?", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "보철물 나사 풀림 해결 사용 시 주의해야 할 점은?", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "고객(치과의사)이 PickCap 인상재 선택에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "네오바이오텍의 M5 체어의 에어 썩션(Air Suction)가 무엇인지 알려줘.", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "M5 체어의 회전형 타구대와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "ALX 임플란트의 나사산 깊이 사용 시 주의해야 할 점은?", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "경쟁사 제품 대비 ALX의 식립 토크 권장 범위의 차별점은?", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "경쟁사 제품 대비 ALX 1.4 Cuff의 용도의 차별점은?", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "ALX 임플란트의 S-Wide 타입와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "경쟁사 제품 대비 IT-III active의 식립 깊이 조절의 차별점은?", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "신입 직원을 위해 IT-III active의 2.5 Hex 드라이버에 대한 교육 내용을 정리해줘.", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "IT-III active의 1.8 Cuff 장점 사용 시 주의해야 할 점은?", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "IS-III active의 0.9 Pitch의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "Neo Master Kit의 드릴 스토퍼 사용 시 주의해야 할 점은?", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "Sinus Crestal Approach 기구의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "고객(치과의사)이 임플란트 주위염 예방 설계에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "임상 현장에서 보철물 나사 풀림 해결가 중요한 이유는?", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "PickCap 인상재 선택의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "M5 체어의 에어 썩션(Air Suction)의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "M5 체어의 회전형 타구대의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "ALX 임플란트의 나사산 깊이의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "ALX의 식립 토크 권장 범위에 대해 자세히 설명해 주세요.", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "경쟁사 제품 대비 ALX 1.4 Cuff의 용도의 차별점은?", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "네오바이오텍의 ALX 임플란트의 S-Wide 타입가 무엇인지 알려줘.", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "IT-III active의 식립 깊이 조절에 대해 자세히 설명해 주세요.", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "경쟁사 제품 대비 IT-III active의 2.5 Hex 드라이버의 차별점은?", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "임상 현장에서 IT-III active의 1.8 Cuff 장점가 중요한 이유는?", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "IS-III active의 0.9 Pitch 사용 시 주의해야 할 점은?", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "Neo Master Kit의 드릴 스토퍼의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "임상 현장에서 Sinus Crestal Approach 기구가 중요한 이유는?", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "임플란트 주위염 예방 설계에 대해 자세히 설명해 주세요.", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "보철물 나사 풀림 해결 사용 시 주의해야 할 점은?", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "네오바이오텍의 PickCap 인상재 선택가 무엇인지 알려줘.", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "경쟁사 제품 대비 M5 체어의 에어 썩션(Air Suction)의 차별점은?", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "M5 체어의 회전형 타구대 사용 시 주의해야 할 점은?", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "ALX 임플란트의 나사산 깊이의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "ALX의 식립 토크 권장 범위 사용 시 주의해야 할 점은?", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "ALX 1.4 Cuff의 용도와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "ALX 임플란트의 S-Wide 타입의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "고객(치과의사)이 IT-III active의 식립 깊이 조절에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "고객(치과의사)이 IT-III active의 2.5 Hex 드라이버에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "IT-III active의 1.8 Cuff 장점의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "IS-III active의 0.9 Pitch의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "Neo Master Kit의 드릴 스토퍼 사용 시 주의해야 할 점은?", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "임상 현장에서 Sinus Crestal Approach 기구가 중요한 이유는?", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "신입 직원을 위해 임플란트 주위염 예방 설계에 대한 교육 내용을 정리해줘.", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "고객(치과의사)이 보철물 나사 풀림 해결에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "임상 현장에서 PickCap 인상재 선택가 중요한 이유는?", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "M5 체어의 에어 썩션(Air Suction)의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "M5 체어의 회전형 타구대의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "신입 직원을 위해 ALX 임플란트의 나사산 깊이에 대한 교육 내용을 정리해줘.", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "ALX의 식립 토크 권장 범위의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "고객(치과의사)이 ALX 1.4 Cuff의 용도에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "ALX 임플란트의 S-Wide 타입에 대해 자세히 설명해 주세요.", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "IT-III active의 식립 깊이 조절에 대해 자세히 설명해 주세요.", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "IT-III active의 2.5 Hex 드라이버의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "IT-III active의 1.8 Cuff 장점에 대해 자세히 설명해 주세요.", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "IS-III active의 0.9 Pitch의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "Neo Master Kit의 드릴 스토퍼의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "Sinus Crestal Approach 기구와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "임플란트 주위염 예방 설계에 대해 자세히 설명해 주세요.", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "보철물 나사 풀림 해결와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "PickCap 인상재 선택의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "M5 체어의 에어 썩션(Air Suction)에 대해 자세히 설명해 주세요.", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "M5 체어의 회전형 타구대의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "ALX 임플란트의 나사산 깊이와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "고객(치과의사)이 ALX의 식립 토크 권장 범위에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "신입 직원을 위해 ALX 1.4 Cuff의 용도에 대한 교육 내용을 정리해줘.", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "ALX 임플란트의 S-Wide 타입 사용 시 주의해야 할 점은?", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "IT-III active의 식립 깊이 조절의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "네오바이오텍의 IT-III active의 2.5 Hex 드라이버가 무엇인지 알려줘.", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "IT-III active의 1.8 Cuff 장점의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "IS-III active의 0.9 Pitch의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "경쟁사 제품 대비 Neo Master Kit의 드릴 스토퍼의 차별점은?", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "고객(치과의사)이 Sinus Crestal Approach 기구에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "임플란트 주위염 예방 설계의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "임상 현장에서 보철물 나사 풀림 해결가 중요한 이유는?", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "경쟁사 제품 대비 PickCap 인상재 선택의 차별점은?", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "임상 현장에서 M5 체어의 에어 썩션(Air Suction)가 중요한 이유는?", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "경쟁사 제품 대비 M5 체어의 회전형 타구대의 차별점은?", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "ALX 임플란트의 나사산 깊이 사용 시 주의해야 할 점은?", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "ALX의 식립 토크 권장 범위의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "ALX 1.4 Cuff의 용도의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "ALX 임플란트의 S-Wide 타입의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "고객(치과의사)이 IT-III active의 식립 깊이 조절에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "IT-III active의 2.5 Hex 드라이버에 대해 자세히 설명해 주세요.", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "경쟁사 제품 대비 IT-III active의 1.8 Cuff 장점의 차별점은?", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "경쟁사 제품 대비 IS-III active의 0.9 Pitch의 차별점은?", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "Neo Master Kit의 드릴 스토퍼에 대해 자세히 설명해 주세요.", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "Sinus Crestal Approach 기구 사용 시 주의해야 할 점은?", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "임플란트 주위염 예방 설계의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "보철물 나사 풀림 해결와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "경쟁사 제품 대비 PickCap 인상재 선택의 차별점은?", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "임상 현장에서 M5 체어의 에어 썩션(Air Suction)가 중요한 이유는?", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "경쟁사 제품 대비 M5 체어의 회전형 타구대의 차별점은?", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "ALX 임플란트의 나사산 깊이와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "고객(치과의사)이 ALX의 식립 토크 권장 범위에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "ALX 1.4 Cuff의 용도 사용 시 주의해야 할 점은?", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "ALX 임플란트의 S-Wide 타입의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "IT-III active의 식립 깊이 조절의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "IT-III active의 2.5 Hex 드라이버의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "IT-III active의 1.8 Cuff 장점에 대해 자세히 설명해 주세요.", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "IS-III active의 0.9 Pitch 사용 시 주의해야 할 점은?", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "경쟁사 제품 대비 Neo Master Kit의 드릴 스토퍼의 차별점은?", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "신입 직원을 위해 Sinus Crestal Approach 기구에 대한 교육 내용을 정리해줘.", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "네오바이오텍의 임플란트 주위염 예방 설계가 무엇인지 알려줘.", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "임상 현장에서 보철물 나사 풀림 해결가 중요한 이유는?", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "네오바이오텍의 PickCap 인상재 선택가 무엇인지 알려줘.", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "M5 체어의 에어 썩션(Air Suction)의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "M5 체어의 회전형 타구대의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "고객(치과의사)이 ALX 임플란트의 나사산 깊이에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "ALX의 식립 토크 권장 범위의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "ALX 1.4 Cuff의 용도와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "ALX 임플란트의 S-Wide 타입에 대해 자세히 설명해 주세요.", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "IT-III active의 식립 깊이 조절에 대해 자세히 설명해 주세요.", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "IT-III active의 2.5 Hex 드라이버 사용 시 주의해야 할 점은?", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "신입 직원을 위해 IT-III active의 1.8 Cuff 장점에 대한 교육 내용을 정리해줘.", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "경쟁사 제품 대비 IS-III active의 0.9 Pitch의 차별점은?", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "임상 현장에서 Neo Master Kit의 드릴 스토퍼가 중요한 이유는?", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "Sinus Crestal Approach 기구와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "경쟁사 제품 대비 임플란트 주위염 예방 설계의 차별점은?", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "보철물 나사 풀림 해결 사용 시 주의해야 할 점은?", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "PickCap 인상재 선택와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "임상 현장에서 M5 체어의 에어 썩션(Air Suction)가 중요한 이유는?", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "M5 체어의 회전형 타구대와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "ALX 임플란트의 나사산 깊이의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "ALX의 식립 토크 권장 범위의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "경쟁사 제품 대비 ALX 1.4 Cuff의 용도의 차별점은?", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "ALX 임플란트의 S-Wide 타입와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "신입 직원을 위해 IT-III active의 식립 깊이 조절에 대한 교육 내용을 정리해줘.", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "네오바이오텍의 IT-III active의 2.5 Hex 드라이버가 무엇인지 알려줘.", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "IT-III active의 1.8 Cuff 장점 사용 시 주의해야 할 점은?", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "IS-III active의 0.9 Pitch에 대해 자세히 설명해 주세요.", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "Neo Master Kit의 드릴 스토퍼에 대해 자세히 설명해 주세요.", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "경쟁사 제품 대비 Sinus Crestal Approach 기구의 차별점은?", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "임플란트 주위염 예방 설계에 대해 자세히 설명해 주세요.", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "보철물 나사 풀림 해결에 대해 자세히 설명해 주세요.", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "고객(치과의사)이 PickCap 인상재 선택에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "M5 체어의 에어 썩션(Air Suction)에 대해 자세히 설명해 주세요.", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "임상 현장에서 M5 체어의 회전형 타구대가 중요한 이유는?", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "ALX 임플란트의 나사산 깊이와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "경쟁사 제품 대비 ALX의 식립 토크 권장 범위의 차별점은?", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "임상 현장에서 ALX 1.4 Cuff의 용도가 중요한 이유는?", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "ALX 임플란트의 S-Wide 타입 사용 시 주의해야 할 점은?", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "IT-III active의 식립 깊이 조절의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "경쟁사 제품 대비 IT-III active의 2.5 Hex 드라이버의 차별점은?", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "IT-III active의 1.8 Cuff 장점의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "IS-III active의 0.9 Pitch에 대해 자세히 설명해 주세요.", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "네오바이오텍의 Neo Master Kit의 드릴 스토퍼가 무엇인지 알려줘.", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "네오바이오텍의 Sinus Crestal Approach 기구가 무엇인지 알려줘.", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "신입 직원을 위해 임플란트 주위염 예방 설계에 대한 교육 내용을 정리해줘.", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "경쟁사 제품 대비 보철물 나사 풀림 해결의 차별점은?", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "고객(치과의사)이 PickCap 인상재 선택에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "M5 체어의 에어 썩션(Air Suction)와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "임상 현장에서 M5 체어의 회전형 타구대가 중요한 이유는?", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "ALX 임플란트의 나사산 깊이의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "임상 현장에서 ALX의 식립 토크 권장 범위가 중요한 이유는?", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "경쟁사 제품 대비 ALX 1.4 Cuff의 용도의 차별점은?", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "신입 직원을 위해 ALX 임플란트의 S-Wide 타입에 대한 교육 내용을 정리해줘.", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "경쟁사 제품 대비 IT-III active의 식립 깊이 조절의 차별점은?", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "경쟁사 제품 대비 IT-III active의 2.5 Hex 드라이버의 차별점은?", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "IT-III active의 1.8 Cuff 장점에 대해 자세히 설명해 주세요.", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "고객(치과의사)이 IS-III active의 0.9 Pitch에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "Neo Master Kit의 드릴 스토퍼 사용 시 주의해야 할 점은?", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "경쟁사 제품 대비 Sinus Crestal Approach 기구의 차별점은?", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "임플란트 주위염 예방 설계에 대해 자세히 설명해 주세요.", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "보철물 나사 풀림 해결에 대해 자세히 설명해 주세요.", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "PickCap 인상재 선택의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "M5 체어의 에어 썩션(Air Suction)의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "M5 체어의 회전형 타구대에 대해 자세히 설명해 주세요.", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "임상 현장에서 ALX 임플란트의 나사산 깊이가 중요한 이유는?", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "ALX의 식립 토크 권장 범위의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "ALX 1.4 Cuff의 용도의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "ALX 임플란트의 S-Wide 타입 사용 시 주의해야 할 점은?", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "임상 현장에서 IT-III active의 식립 깊이 조절가 중요한 이유는?", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "신입 직원을 위해 IT-III active의 2.5 Hex 드라이버에 대한 교육 내용을 정리해줘.", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "IT-III active의 1.8 Cuff 장점의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "신입 직원을 위해 IS-III active의 0.9 Pitch에 대한 교육 내용을 정리해줘.", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "Neo Master Kit의 드릴 스토퍼에 대해 자세히 설명해 주세요.", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "Sinus Crestal Approach 기구 사용 시 주의해야 할 점은?", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "신입 직원을 위해 임플란트 주위염 예방 설계에 대한 교육 내용을 정리해줘.", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "경쟁사 제품 대비 보철물 나사 풀림 해결의 차별점은?", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "경쟁사 제품 대비 PickCap 인상재 선택의 차별점은?", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "M5 체어의 에어 썩션(Air Suction)의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "신입 직원을 위해 M5 체어의 회전형 타구대에 대한 교육 내용을 정리해줘.", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "경쟁사 제품 대비 ALX 임플란트의 나사산 깊이의 차별점은?", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "신입 직원을 위해 ALX의 식립 토크 권장 범위에 대한 교육 내용을 정리해줘.", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "신입 직원을 위해 ALX 1.4 Cuff의 용도에 대한 교육 내용을 정리해줘.", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "고객(치과의사)이 ALX 임플란트의 S-Wide 타입에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "고객(치과의사)이 IT-III active의 식립 깊이 조절에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "임상 현장에서 IT-III active의 2.5 Hex 드라이버가 중요한 이유는?", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "신입 직원을 위해 IT-III active의 1.8 Cuff 장점에 대한 교육 내용을 정리해줘.", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "네오바이오텍의 IS-III active의 0.9 Pitch가 무엇인지 알려줘.", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "Neo Master Kit의 드릴 스토퍼에 대해 자세히 설명해 주세요.", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "경쟁사 제품 대비 Sinus Crestal Approach 기구의 차별점은?", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "임플란트 주위염 예방 설계의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "경쟁사 제품 대비 보철물 나사 풀림 해결의 차별점은?", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "신입 직원을 위해 PickCap 인상재 선택에 대한 교육 내용을 정리해줘.", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "M5 체어의 에어 썩션(Air Suction)의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "M5 체어의 회전형 타구대 사용 시 주의해야 할 점은?", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "고객(치과의사)이 ALX 임플란트의 나사산 깊이에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "임상 현장에서 ALX의 식립 토크 권장 범위가 중요한 이유는?", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "네오바이오텍의 ALX 1.4 Cuff의 용도가 무엇인지 알려줘.", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "ALX 임플란트의 S-Wide 타입에 대해 자세히 설명해 주세요.", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "IT-III active의 식립 깊이 조절에 대해 자세히 설명해 주세요.", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "고객(치과의사)이 IT-III active의 2.5 Hex 드라이버에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "임상 현장에서 IT-III active의 1.8 Cuff 장점가 중요한 이유는?", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "네오바이오텍의 IS-III active의 0.9 Pitch가 무엇인지 알려줘.", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "고객(치과의사)이 Neo Master Kit의 드릴 스토퍼에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "Sinus Crestal Approach 기구 사용 시 주의해야 할 점은?", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "임상 현장에서 임플란트 주위염 예방 설계가 중요한 이유는?", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "보철물 나사 풀림 해결의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "PickCap 인상재 선택 사용 시 주의해야 할 점은?", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "임상 현장에서 M5 체어의 에어 썩션(Air Suction)가 중요한 이유는?", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "M5 체어의 회전형 타구대 사용 시 주의해야 할 점은?", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "고객(치과의사)이 ALX 임플란트의 나사산 깊이에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "네오바이오텍의 ALX의 식립 토크 권장 범위가 무엇인지 알려줘.", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "ALX 1.4 Cuff의 용도 사용 시 주의해야 할 점은?", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "ALX 임플란트의 S-Wide 타입와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "경쟁사 제품 대비 IT-III active의 식립 깊이 조절의 차별점은?", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "IT-III active의 2.5 Hex 드라이버의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "IT-III active의 1.8 Cuff 장점와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "네오바이오텍의 IS-III active의 0.9 Pitch가 무엇인지 알려줘.", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "Neo Master Kit의 드릴 스토퍼와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "신입 직원을 위해 Sinus Crestal Approach 기구에 대한 교육 내용을 정리해줘.", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "임플란트 주위염 예방 설계의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "네오바이오텍의 보철물 나사 풀림 해결가 무엇인지 알려줘.", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "임상 현장에서 PickCap 인상재 선택가 중요한 이유는?", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "M5 체어의 에어 썩션(Air Suction)의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "네오바이오텍의 M5 체어의 회전형 타구대가 무엇인지 알려줘.", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "고객(치과의사)이 ALX 임플란트의 나사산 깊이에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "고객(치과의사)이 ALX의 식립 토크 권장 범위에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "ALX 1.4 Cuff의 용도 사용 시 주의해야 할 점은?", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "신입 직원을 위해 ALX 임플란트의 S-Wide 타입에 대한 교육 내용을 정리해줘.", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "IT-III active의 식립 깊이 조절에 대해 자세히 설명해 주세요.", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "IT-III active의 2.5 Hex 드라이버에 대해 자세히 설명해 주세요.", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "IT-III active의 1.8 Cuff 장점 사용 시 주의해야 할 점은?", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "네오바이오텍의 IS-III active의 0.9 Pitch가 무엇인지 알려줘.", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "Neo Master Kit의 드릴 스토퍼에 대해 자세히 설명해 주세요.", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "신입 직원을 위해 Sinus Crestal Approach 기구에 대한 교육 내용을 정리해줘.", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "임플란트 주위염 예방 설계 사용 시 주의해야 할 점은?", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "보철물 나사 풀림 해결 사용 시 주의해야 할 점은?", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "네오바이오텍의 PickCap 인상재 선택가 무엇인지 알려줘.", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "경쟁사 제품 대비 M5 체어의 에어 썩션(Air Suction)의 차별점은?", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "M5 체어의 회전형 타구대 사용 시 주의해야 할 점은?", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "ALX 임플란트의 나사산 깊이의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "네오바이오텍의 ALX의 식립 토크 권장 범위가 무엇인지 알려줘.", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "ALX 1.4 Cuff의 용도에 대해 자세히 설명해 주세요.", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "신입 직원을 위해 ALX 임플란트의 S-Wide 타입에 대한 교육 내용을 정리해줘.", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "네오바이오텍의 IT-III active의 식립 깊이 조절가 무엇인지 알려줘.", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "IT-III active의 2.5 Hex 드라이버 사용 시 주의해야 할 점은?", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "경쟁사 제품 대비 IT-III active의 1.8 Cuff 장점의 차별점은?", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "네오바이오텍의 IS-III active의 0.9 Pitch가 무엇인지 알려줘.", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "신입 직원을 위해 Neo Master Kit의 드릴 스토퍼에 대한 교육 내용을 정리해줘.", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "경쟁사 제품 대비 Sinus Crestal Approach 기구의 차별점은?", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "경쟁사 제품 대비 임플란트 주위염 예방 설계의 차별점은?", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "고객(치과의사)이 보철물 나사 풀림 해결에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "PickCap 인상재 선택에 대해 자세히 설명해 주세요.", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "임상 현장에서 M5 체어의 에어 썩션(Air Suction)가 중요한 이유는?", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "M5 체어의 회전형 타구대와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "ALX 임플란트의 나사산 깊이와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "ALX의 식립 토크 권장 범위의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "ALX 1.4 Cuff의 용도와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "고객(치과의사)이 ALX 임플란트의 S-Wide 타입에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "IT-III active의 식립 깊이 조절의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "IT-III active의 2.5 Hex 드라이버와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "고객(치과의사)이 IT-III active의 1.8 Cuff 장점에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "경쟁사 제품 대비 IS-III active의 0.9 Pitch의 차별점은?", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "신입 직원을 위해 Neo Master Kit의 드릴 스토퍼에 대한 교육 내용을 정리해줘.", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "고객(치과의사)이 Sinus Crestal Approach 기구에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "고객(치과의사)이 임플란트 주위염 예방 설계에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "고객(치과의사)이 보철물 나사 풀림 해결에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "PickCap 인상재 선택 사용 시 주의해야 할 점은?", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "M5 체어의 에어 썩션(Air Suction)의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "M5 체어의 회전형 타구대의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "고객(치과의사)이 ALX 임플란트의 나사산 깊이에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "고객(치과의사)이 ALX의 식립 토크 권장 범위에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "경쟁사 제품 대비 ALX 1.4 Cuff의 용도의 차별점은?", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "고객(치과의사)이 ALX 임플란트의 S-Wide 타입에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "경쟁사 제품 대비 IT-III active의 식립 깊이 조절의 차별점은?", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "경쟁사 제품 대비 IT-III active의 2.5 Hex 드라이버의 차별점은?", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "임상 현장에서 IT-III active의 1.8 Cuff 장점가 중요한 이유는?", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "네오바이오텍의 IS-III active의 0.9 Pitch가 무엇인지 알려줘.", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "Neo Master Kit의 드릴 스토퍼 사용 시 주의해야 할 점은?", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "경쟁사 제품 대비 Sinus Crestal Approach 기구의 차별점은?", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "네오바이오텍의 임플란트 주위염 예방 설계가 무엇인지 알려줘.", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "고객(치과의사)이 보철물 나사 풀림 해결에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "PickCap 인상재 선택의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "M5 체어의 에어 썩션(Air Suction)에 대해 자세히 설명해 주세요.", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "경쟁사 제품 대비 M5 체어의 회전형 타구대의 차별점은?", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "ALX 임플란트의 나사산 깊이의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "경쟁사 제품 대비 ALX의 식립 토크 권장 범위의 차별점은?", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "네오바이오텍의 ALX 1.4 Cuff의 용도가 무엇인지 알려줘.", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "임상 현장에서 ALX 임플란트의 S-Wide 타입가 중요한 이유는?", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "신입 직원을 위해 IT-III active의 식립 깊이 조절에 대한 교육 내용을 정리해줘.", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "IT-III active의 2.5 Hex 드라이버의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "경쟁사 제품 대비 IT-III active의 1.8 Cuff 장점의 차별점은?", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "임상 현장에서 IS-III active의 0.9 Pitch가 중요한 이유는?", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "Neo Master Kit의 드릴 스토퍼 사용 시 주의해야 할 점은?", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "Sinus Crestal Approach 기구에 대해 자세히 설명해 주세요.", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "임상 현장에서 임플란트 주위염 예방 설계가 중요한 이유는?", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "경쟁사 제품 대비 보철물 나사 풀림 해결의 차별점은?", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "PickCap 인상재 선택 사용 시 주의해야 할 점은?", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "M5 체어의 에어 썩션(Air Suction)의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "신입 직원을 위해 M5 체어의 회전형 타구대에 대한 교육 내용을 정리해줘.", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "네오바이오텍의 ALX 임플란트의 나사산 깊이가 무엇인지 알려줘.", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "경쟁사 제품 대비 ALX의 식립 토크 권장 범위의 차별점은?", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "ALX 1.4 Cuff의 용도의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "ALX 임플란트의 S-Wide 타입와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "네오바이오텍의 IT-III active의 식립 깊이 조절가 무엇인지 알려줘.", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "IT-III active의 2.5 Hex 드라이버와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "임상 현장에서 IT-III active의 1.8 Cuff 장점가 중요한 이유는?", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "고객(치과의사)이 IS-III active의 0.9 Pitch에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "Neo Master Kit의 드릴 스토퍼에 대해 자세히 설명해 주세요.", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "Sinus Crestal Approach 기구 사용 시 주의해야 할 점은?", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "임플란트 주위염 예방 설계의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "임상 현장에서 보철물 나사 풀림 해결가 중요한 이유는?", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "PickCap 인상재 선택에 대해 자세히 설명해 주세요.", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "경쟁사 제품 대비 M5 체어의 에어 썩션(Air Suction)의 차별점은?", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "경쟁사 제품 대비 M5 체어의 회전형 타구대의 차별점은?", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "신입 직원을 위해 ALX 임플란트의 나사산 깊이에 대한 교육 내용을 정리해줘.", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "신입 직원을 위해 ALX의 식립 토크 권장 범위에 대한 교육 내용을 정리해줘.", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "ALX 1.4 Cuff의 용도 사용 시 주의해야 할 점은?", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "ALX 임플란트의 S-Wide 타입의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "신입 직원을 위해 IT-III active의 식립 깊이 조절에 대한 교육 내용을 정리해줘.", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "고객(치과의사)이 IT-III active의 2.5 Hex 드라이버에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "신입 직원을 위해 IT-III active의 1.8 Cuff 장점에 대한 교육 내용을 정리해줘.", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "신입 직원을 위해 IS-III active의 0.9 Pitch에 대한 교육 내용을 정리해줘.", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "Neo Master Kit의 드릴 스토퍼의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "신입 직원을 위해 Sinus Crestal Approach 기구에 대한 교육 내용을 정리해줘.", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "고객(치과의사)이 임플란트 주위염 예방 설계에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "보철물 나사 풀림 해결에 대해 자세히 설명해 주세요.", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "네오바이오텍의 PickCap 인상재 선택가 무엇인지 알려줘.", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "M5 체어의 에어 썩션(Air Suction)의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "M5 체어의 회전형 타구대의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "신입 직원을 위해 ALX 임플란트의 나사산 깊이에 대한 교육 내용을 정리해줘.", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "경쟁사 제품 대비 ALX의 식립 토크 권장 범위의 차별점은?", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "ALX 1.4 Cuff의 용도의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "고객(치과의사)이 ALX 임플란트의 S-Wide 타입에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "IT-III active의 식립 깊이 조절에 대해 자세히 설명해 주세요.", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "고객(치과의사)이 IT-III active의 2.5 Hex 드라이버에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "신입 직원을 위해 IT-III active의 1.8 Cuff 장점에 대한 교육 내용을 정리해줘.", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "경쟁사 제품 대비 IS-III active의 0.9 Pitch의 차별점은?", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "신입 직원을 위해 Neo Master Kit의 드릴 스토퍼에 대한 교육 내용을 정리해줘.", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "임상 현장에서 Sinus Crestal Approach 기구가 중요한 이유는?", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "신입 직원을 위해 임플란트 주위염 예방 설계에 대한 교육 내용을 정리해줘.", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "네오바이오텍의 보철물 나사 풀림 해결가 무엇인지 알려줘.", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "PickCap 인상재 선택 사용 시 주의해야 할 점은?", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "M5 체어의 에어 썩션(Air Suction) 사용 시 주의해야 할 점은?", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "신입 직원을 위해 M5 체어의 회전형 타구대에 대한 교육 내용을 정리해줘.", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "ALX 임플란트의 나사산 깊이의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "ALX의 식립 토크 권장 범위의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "ALX 1.4 Cuff의 용도와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "ALX 임플란트의 S-Wide 타입의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "네오바이오텍의 IT-III active의 식립 깊이 조절가 무엇인지 알려줘.", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "IT-III active의 2.5 Hex 드라이버의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "IT-III active의 1.8 Cuff 장점와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "신입 직원을 위해 IS-III active의 0.9 Pitch에 대한 교육 내용을 정리해줘.", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "경쟁사 제품 대비 Neo Master Kit의 드릴 스토퍼의 차별점은?", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "Sinus Crestal Approach 기구의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "임상 현장에서 임플란트 주위염 예방 설계가 중요한 이유는?", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "신입 직원을 위해 보철물 나사 풀림 해결에 대한 교육 내용을 정리해줘.", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "신입 직원을 위해 PickCap 인상재 선택에 대한 교육 내용을 정리해줘.", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "M5 체어의 에어 썩션(Air Suction)와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "M5 체어의 회전형 타구대의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "네오바이오텍의 ALX 임플란트의 나사산 깊이가 무엇인지 알려줘.", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "경쟁사 제품 대비 ALX의 식립 토크 권장 범위의 차별점은?", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "고객(치과의사)이 ALX 1.4 Cuff의 용도에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "ALX 임플란트의 S-Wide 타입에 대해 자세히 설명해 주세요.", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "IT-III active의 식립 깊이 조절의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "IT-III active의 2.5 Hex 드라이버에 대해 자세히 설명해 주세요.", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "IT-III active의 1.8 Cuff 장점 사용 시 주의해야 할 점은?", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "네오바이오텍의 IS-III active의 0.9 Pitch가 무엇인지 알려줘.", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "Neo Master Kit의 드릴 스토퍼와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "Sinus Crestal Approach 기구에 대해 자세히 설명해 주세요.", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "임플란트 주위염 예방 설계의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "보철물 나사 풀림 해결 사용 시 주의해야 할 점은?", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "PickCap 인상재 선택 사용 시 주의해야 할 점은?", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "임상 현장에서 M5 체어의 에어 썩션(Air Suction)가 중요한 이유는?", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "M5 체어의 회전형 타구대 사용 시 주의해야 할 점은?", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "ALX 임플란트의 나사산 깊이의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "경쟁사 제품 대비 ALX의 식립 토크 권장 범위의 차별점은?", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "ALX 1.4 Cuff의 용도의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "네오바이오텍의 ALX 임플란트의 S-Wide 타입가 무엇인지 알려줘.", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "IT-III active의 식립 깊이 조절와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "네오바이오텍의 IT-III active의 2.5 Hex 드라이버가 무엇인지 알려줘.", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "네오바이오텍의 IT-III active의 1.8 Cuff 장점가 무엇인지 알려줘.", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "신입 직원을 위해 IS-III active의 0.9 Pitch에 대한 교육 내용을 정리해줘.", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "신입 직원을 위해 Neo Master Kit의 드릴 스토퍼에 대한 교육 내용을 정리해줘.", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "경쟁사 제품 대비 Sinus Crestal Approach 기구의 차별점은?", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "임상 현장에서 임플란트 주위염 예방 설계가 중요한 이유는?", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "보철물 나사 풀림 해결의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "고객(치과의사)이 PickCap 인상재 선택에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "경쟁사 제품 대비 M5 체어의 에어 썩션(Air Suction)의 차별점은?", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "M5 체어의 회전형 타구대에 대해 자세히 설명해 주세요.", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "ALX 임플란트의 나사산 깊이의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "고객(치과의사)이 ALX의 식립 토크 권장 범위에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "네오바이오텍의 ALX 1.4 Cuff의 용도가 무엇인지 알려줘.", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "ALX 임플란트의 S-Wide 타입와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "신입 직원을 위해 IT-III active의 식립 깊이 조절에 대한 교육 내용을 정리해줘.", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "경쟁사 제품 대비 IT-III active의 2.5 Hex 드라이버의 차별점은?", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "경쟁사 제품 대비 IT-III active의 1.8 Cuff 장점의 차별점은?", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "임상 현장에서 IS-III active의 0.9 Pitch가 중요한 이유는?", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "Neo Master Kit의 드릴 스토퍼 사용 시 주의해야 할 점은?", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "네오바이오텍의 Sinus Crestal Approach 기구가 무엇인지 알려줘.", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "임플란트 주위염 예방 설계에 대해 자세히 설명해 주세요.", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "보철물 나사 풀림 해결 사용 시 주의해야 할 점은?", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "PickCap 인상재 선택 사용 시 주의해야 할 점은?", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "M5 체어의 에어 썩션(Air Suction)와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "네오바이오텍의 M5 체어의 회전형 타구대가 무엇인지 알려줘.", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "ALX 임플란트의 나사산 깊이의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "임상 현장에서 ALX의 식립 토크 권장 범위가 중요한 이유는?", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "ALX 1.4 Cuff의 용도의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "임상 현장에서 ALX 임플란트의 S-Wide 타입가 중요한 이유는?", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "신입 직원을 위해 IT-III active의 식립 깊이 조절에 대한 교육 내용을 정리해줘.", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "IT-III active의 2.5 Hex 드라이버에 대해 자세히 설명해 주세요.", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "경쟁사 제품 대비 IT-III active의 1.8 Cuff 장점의 차별점은?", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "고객(치과의사)이 IS-III active의 0.9 Pitch에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "고객(치과의사)이 Neo Master Kit의 드릴 스토퍼에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "신입 직원을 위해 Sinus Crestal Approach 기구에 대한 교육 내용을 정리해줘.", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "임플란트 주위염 예방 설계 사용 시 주의해야 할 점은?", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "보철물 나사 풀림 해결의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "PickCap 인상재 선택의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "M5 체어의 에어 썩션(Air Suction)와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "M5 체어의 회전형 타구대 사용 시 주의해야 할 점은?", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "임상 현장에서 ALX 임플란트의 나사산 깊이가 중요한 이유는?", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "신입 직원을 위해 ALX의 식립 토크 권장 범위에 대한 교육 내용을 정리해줘.", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "경쟁사 제품 대비 ALX 1.4 Cuff의 용도의 차별점은?", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "경쟁사 제품 대비 ALX 임플란트의 S-Wide 타입의 차별점은?", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "IT-III active의 식립 깊이 조절의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "IT-III active의 2.5 Hex 드라이버의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "IT-III active의 1.8 Cuff 장점 사용 시 주의해야 할 점은?", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "네오바이오텍의 IS-III active의 0.9 Pitch가 무엇인지 알려줘.", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "Neo Master Kit의 드릴 스토퍼에 대해 자세히 설명해 주세요.", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "고객(치과의사)이 Sinus Crestal Approach 기구에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "임플란트 주위염 예방 설계에 대해 자세히 설명해 주세요.", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "보철물 나사 풀림 해결의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "임상 현장에서 PickCap 인상재 선택가 중요한 이유는?", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "고객(치과의사)이 M5 체어의 에어 썩션(Air Suction)에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "경쟁사 제품 대비 M5 체어의 회전형 타구대의 차별점은?", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "네오바이오텍의 ALX 임플란트의 나사산 깊이가 무엇인지 알려줘.", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "ALX의 식립 토크 권장 범위와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "ALX 1.4 Cuff의 용도의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "ALX 임플란트의 S-Wide 타입의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "IT-III active의 식립 깊이 조절 사용 시 주의해야 할 점은?", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "네오바이오텍의 IT-III active의 2.5 Hex 드라이버가 무엇인지 알려줘.", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "IT-III active의 1.8 Cuff 장점에 대해 자세히 설명해 주세요.", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "IS-III active의 0.9 Pitch에 대해 자세히 설명해 주세요.", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "임상 현장에서 Neo Master Kit의 드릴 스토퍼가 중요한 이유는?", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "Sinus Crestal Approach 기구 사용 시 주의해야 할 점은?", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "임플란트 주위염 예방 설계의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "신입 직원을 위해 보철물 나사 풀림 해결에 대한 교육 내용을 정리해줘.", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "고객(치과의사)이 PickCap 인상재 선택에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "고객(치과의사)이 M5 체어의 에어 썩션(Air Suction)에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "M5 체어의 회전형 타구대에 대해 자세히 설명해 주세요.", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "신입 직원을 위해 ALX 임플란트의 나사산 깊이에 대한 교육 내용을 정리해줘.", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "ALX의 식립 토크 권장 범위 사용 시 주의해야 할 점은?", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "ALX 1.4 Cuff의 용도의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "ALX 임플란트의 S-Wide 타입와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "IT-III active의 식립 깊이 조절와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "임상 현장에서 IT-III active의 2.5 Hex 드라이버가 중요한 이유는?", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "임상 현장에서 IT-III active의 1.8 Cuff 장점가 중요한 이유는?", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "신입 직원을 위해 IS-III active의 0.9 Pitch에 대한 교육 내용을 정리해줘.", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "경쟁사 제품 대비 Neo Master Kit의 드릴 스토퍼의 차별점은?", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "Sinus Crestal Approach 기구의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "임플란트 주위염 예방 설계에 대해 자세히 설명해 주세요.", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "보철물 나사 풀림 해결의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "네오바이오텍의 PickCap 인상재 선택가 무엇인지 알려줘.", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "네오바이오텍의 M5 체어의 에어 썩션(Air Suction)가 무엇인지 알려줘.", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "M5 체어의 회전형 타구대의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "고객(치과의사)이 ALX 임플란트의 나사산 깊이에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "ALX의 식립 토크 권장 범위 사용 시 주의해야 할 점은?", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "임상 현장에서 ALX 1.4 Cuff의 용도가 중요한 이유는?", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "임상 현장에서 ALX 임플란트의 S-Wide 타입가 중요한 이유는?", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "IT-III active의 식립 깊이 조절의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "임상 현장에서 IT-III active의 2.5 Hex 드라이버가 중요한 이유는?", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "경쟁사 제품 대비 IT-III active의 1.8 Cuff 장점의 차별점은?", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "IS-III active의 0.9 Pitch의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "신입 직원을 위해 Neo Master Kit의 드릴 스토퍼에 대한 교육 내용을 정리해줘.", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "신입 직원을 위해 Sinus Crestal Approach 기구에 대한 교육 내용을 정리해줘.", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "네오바이오텍의 임플란트 주위염 예방 설계가 무엇인지 알려줘.", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "보철물 나사 풀림 해결 사용 시 주의해야 할 점은?", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "PickCap 인상재 선택와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "M5 체어의 에어 썩션(Air Suction)에 대해 자세히 설명해 주세요.", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "임상 현장에서 M5 체어의 회전형 타구대가 중요한 이유는?", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "ALX 임플란트의 나사산 깊이 사용 시 주의해야 할 점은?", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "ALX의 식립 토크 권장 범위에 대해 자세히 설명해 주세요.", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "경쟁사 제품 대비 ALX 1.4 Cuff의 용도의 차별점은?", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "임상 현장에서 ALX 임플란트의 S-Wide 타입가 중요한 이유는?", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "IT-III active의 식립 깊이 조절의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "임상 현장에서 IT-III active의 2.5 Hex 드라이버가 중요한 이유는?", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "IT-III active의 1.8 Cuff 장점와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "고객(치과의사)이 IS-III active의 0.9 Pitch에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "Neo Master Kit의 드릴 스토퍼 사용 시 주의해야 할 점은?", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "Sinus Crestal Approach 기구에 대해 자세히 설명해 주세요.", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "임플란트 주위염 예방 설계와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "보철물 나사 풀림 해결와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "PickCap 인상재 선택에 대해 자세히 설명해 주세요.", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "경쟁사 제품 대비 M5 체어의 에어 썩션(Air Suction)의 차별점은?", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "M5 체어의 회전형 타구대와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "네오바이오텍의 ALX 임플란트의 나사산 깊이가 무엇인지 알려줘.", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "ALX의 식립 토크 권장 범위의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "ALX 1.4 Cuff의 용도의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "신입 직원을 위해 ALX 임플란트의 S-Wide 타입에 대한 교육 내용을 정리해줘.", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "신입 직원을 위해 IT-III active의 식립 깊이 조절에 대한 교육 내용을 정리해줘.", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "IT-III active의 2.5 Hex 드라이버의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "IT-III active의 1.8 Cuff 장점에 대해 자세히 설명해 주세요.", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "IS-III active의 0.9 Pitch에 대해 자세히 설명해 주세요.", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "신입 직원을 위해 Neo Master Kit의 드릴 스토퍼에 대한 교육 내용을 정리해줘.", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "Sinus Crestal Approach 기구 사용 시 주의해야 할 점은?", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "신입 직원을 위해 임플란트 주위염 예방 설계에 대한 교육 내용을 정리해줘.", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "임상 현장에서 보철물 나사 풀림 해결가 중요한 이유는?", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "경쟁사 제품 대비 PickCap 인상재 선택의 차별점은?", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "네오바이오텍의 M5 체어의 에어 썩션(Air Suction)가 무엇인지 알려줘.", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "경쟁사 제품 대비 M5 체어의 회전형 타구대의 차별점은?", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "임상 현장에서 ALX 임플란트의 나사산 깊이가 중요한 이유는?", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "신입 직원을 위해 ALX의 식립 토크 권장 범위에 대한 교육 내용을 정리해줘.", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "고객(치과의사)이 ALX 1.4 Cuff의 용도에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "신입 직원을 위해 ALX 임플란트의 S-Wide 타입에 대한 교육 내용을 정리해줘.", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "신입 직원을 위해 IT-III active의 식립 깊이 조절에 대한 교육 내용을 정리해줘.", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "IT-III active의 2.5 Hex 드라이버의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "IT-III active의 1.8 Cuff 장점의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "IS-III active의 0.9 Pitch의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "경쟁사 제품 대비 Neo Master Kit의 드릴 스토퍼의 차별점은?", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "Sinus Crestal Approach 기구의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "임플란트 주위염 예방 설계에 대해 자세히 설명해 주세요.", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "고객(치과의사)이 보철물 나사 풀림 해결에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "신입 직원을 위해 PickCap 인상재 선택에 대한 교육 내용을 정리해줘.", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "M5 체어의 에어 썩션(Air Suction)에 대해 자세히 설명해 주세요.", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "M5 체어의 회전형 타구대에 대해 자세히 설명해 주세요.", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "신입 직원을 위해 ALX 임플란트의 나사산 깊이에 대한 교육 내용을 정리해줘.", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "ALX의 식립 토크 권장 범위와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "네오바이오텍의 ALX 1.4 Cuff의 용도가 무엇인지 알려줘.", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "ALX 임플란트의 S-Wide 타입와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "IT-III active의 식립 깊이 조절의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "네오바이오텍의 IT-III active의 2.5 Hex 드라이버가 무엇인지 알려줘.", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "신입 직원을 위해 IT-III active의 1.8 Cuff 장점에 대한 교육 내용을 정리해줘.", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "신입 직원을 위해 IS-III active의 0.9 Pitch에 대한 교육 내용을 정리해줘.", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "Neo Master Kit의 드릴 스토퍼의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "Sinus Crestal Approach 기구의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "고객(치과의사)이 임플란트 주위염 예방 설계에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "보철물 나사 풀림 해결에 대해 자세히 설명해 주세요.", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "신입 직원을 위해 PickCap 인상재 선택에 대한 교육 내용을 정리해줘.", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "M5 체어의 에어 썩션(Air Suction) 사용 시 주의해야 할 점은?", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "M5 체어의 회전형 타구대와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "ALX 임플란트의 나사산 깊이의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "임상 현장에서 ALX의 식립 토크 권장 범위가 중요한 이유는?", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "ALX 1.4 Cuff의 용도의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "네오바이오텍의 ALX 임플란트의 S-Wide 타입가 무엇인지 알려줘.", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "IT-III active의 식립 깊이 조절에 대해 자세히 설명해 주세요.", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "IT-III active의 2.5 Hex 드라이버에 대해 자세히 설명해 주세요.", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "신입 직원을 위해 IT-III active의 1.8 Cuff 장점에 대한 교육 내용을 정리해줘.", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "고객(치과의사)이 IS-III active의 0.9 Pitch에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "임상 현장에서 Neo Master Kit의 드릴 스토퍼가 중요한 이유는?", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "경쟁사 제품 대비 Sinus Crestal Approach 기구의 차별점은?", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "신입 직원을 위해 임플란트 주위염 예방 설계에 대한 교육 내용을 정리해줘.", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "신입 직원을 위해 보철물 나사 풀림 해결에 대한 교육 내용을 정리해줘.", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "PickCap 인상재 선택와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "네오바이오텍의 M5 체어의 에어 썩션(Air Suction)가 무엇인지 알려줘.", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "M5 체어의 회전형 타구대의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "ALX 임플란트의 나사산 깊이와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "ALX의 식립 토크 권장 범위에 대해 자세히 설명해 주세요.", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "네오바이오텍의 ALX 1.4 Cuff의 용도가 무엇인지 알려줘.", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "경쟁사 제품 대비 ALX 임플란트의 S-Wide 타입의 차별점은?", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "IT-III active의 식립 깊이 조절의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "경쟁사 제품 대비 IT-III active의 2.5 Hex 드라이버의 차별점은?", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "네오바이오텍의 IT-III active의 1.8 Cuff 장점가 무엇인지 알려줘.", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "IS-III active의 0.9 Pitch 사용 시 주의해야 할 점은?", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "신입 직원을 위해 Neo Master Kit의 드릴 스토퍼에 대한 교육 내용을 정리해줘.", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "Sinus Crestal Approach 기구의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "경쟁사 제품 대비 임플란트 주위염 예방 설계의 차별점은?", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "보철물 나사 풀림 해결의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "신입 직원을 위해 PickCap 인상재 선택에 대한 교육 내용을 정리해줘.", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "M5 체어의 에어 썩션(Air Suction) 사용 시 주의해야 할 점은?", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "M5 체어의 회전형 타구대의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "ALX 임플란트의 나사산 깊이의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "ALX의 식립 토크 권장 범위의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "ALX 1.4 Cuff의 용도와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "네오바이오텍의 ALX 임플란트의 S-Wide 타입가 무엇인지 알려줘.", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "IT-III active의 식립 깊이 조절와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "신입 직원을 위해 IT-III active의 2.5 Hex 드라이버에 대한 교육 내용을 정리해줘.", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "신입 직원을 위해 IT-III active의 1.8 Cuff 장점에 대한 교육 내용을 정리해줘.", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "신입 직원을 위해 IS-III active의 0.9 Pitch에 대한 교육 내용을 정리해줘.", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "고객(치과의사)이 Neo Master Kit의 드릴 스토퍼에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "Sinus Crestal Approach 기구와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "네오바이오텍의 임플란트 주위염 예방 설계가 무엇인지 알려줘.", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "경쟁사 제품 대비 보철물 나사 풀림 해결의 차별점은?", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "네오바이오텍의 PickCap 인상재 선택가 무엇인지 알려줘.", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "M5 체어의 에어 썩션(Air Suction)에 대해 자세히 설명해 주세요.", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "고객(치과의사)이 M5 체어의 회전형 타구대에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "ALX 임플란트의 나사산 깊이의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "네오바이오텍의 ALX의 식립 토크 권장 범위가 무엇인지 알려줘.", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "고객(치과의사)이 ALX 1.4 Cuff의 용도에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "ALX 임플란트의 S-Wide 타입에 대해 자세히 설명해 주세요.", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "고객(치과의사)이 IT-III active의 식립 깊이 조절에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "IT-III active의 2.5 Hex 드라이버에 대해 자세히 설명해 주세요.", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "IT-III active의 1.8 Cuff 장점의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "네오바이오텍의 IS-III active의 0.9 Pitch가 무엇인지 알려줘.", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "Neo Master Kit의 드릴 스토퍼의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "Sinus Crestal Approach 기구와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "임상 현장에서 임플란트 주위염 예방 설계가 중요한 이유는?", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "경쟁사 제품 대비 보철물 나사 풀림 해결의 차별점은?", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "네오바이오텍의 PickCap 인상재 선택가 무엇인지 알려줘.", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "M5 체어의 에어 썩션(Air Suction)와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "임상 현장에서 M5 체어의 회전형 타구대가 중요한 이유는?", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "고객(치과의사)이 ALX 임플란트의 나사산 깊이에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "임상 현장에서 ALX의 식립 토크 권장 범위가 중요한 이유는?", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "ALX 1.4 Cuff의 용도의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "ALX 임플란트의 S-Wide 타입에 대해 자세히 설명해 주세요.", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "임상 현장에서 IT-III active의 식립 깊이 조절가 중요한 이유는?", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "IT-III active의 2.5 Hex 드라이버의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "IT-III active의 1.8 Cuff 장점와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "신입 직원을 위해 IS-III active의 0.9 Pitch에 대한 교육 내용을 정리해줘.", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "Neo Master Kit의 드릴 스토퍼의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "Sinus Crestal Approach 기구의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "임플란트 주위염 예방 설계에 대해 자세히 설명해 주세요.", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "임상 현장에서 보철물 나사 풀림 해결가 중요한 이유는?", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "네오바이오텍의 PickCap 인상재 선택가 무엇인지 알려줘.", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "경쟁사 제품 대비 M5 체어의 에어 썩션(Air Suction)의 차별점은?", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "M5 체어의 회전형 타구대의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "ALX 임플란트의 나사산 깊이와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "네오바이오텍의 ALX의 식립 토크 권장 범위가 무엇인지 알려줘.", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "ALX 1.4 Cuff의 용도의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "ALX 임플란트의 S-Wide 타입의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "고객(치과의사)이 IT-III active의 식립 깊이 조절에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "임상 현장에서 IT-III active의 2.5 Hex 드라이버가 중요한 이유는?", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "임상 현장에서 IT-III active의 1.8 Cuff 장점가 중요한 이유는?", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "임상 현장에서 IS-III active의 0.9 Pitch가 중요한 이유는?", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "네오바이오텍의 Neo Master Kit의 드릴 스토퍼가 무엇인지 알려줘.", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "Sinus Crestal Approach 기구 사용 시 주의해야 할 점은?", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "임플란트 주위염 예방 설계의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "보철물 나사 풀림 해결의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "경쟁사 제품 대비 PickCap 인상재 선택의 차별점은?", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "네오바이오텍의 M5 체어의 에어 썩션(Air Suction)가 무엇인지 알려줘.", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "M5 체어의 회전형 타구대와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "경쟁사 제품 대비 ALX 임플란트의 나사산 깊이의 차별점은?", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "ALX의 식립 토크 권장 범위와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "ALX 1.4 Cuff의 용도에 대해 자세히 설명해 주세요.", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "ALX 임플란트의 S-Wide 타입 사용 시 주의해야 할 점은?", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "네오바이오텍의 IT-III active의 식립 깊이 조절가 무엇인지 알려줘.", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "고객(치과의사)이 IT-III active의 2.5 Hex 드라이버에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "IT-III active의 1.8 Cuff 장점의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "IS-III active의 0.9 Pitch 사용 시 주의해야 할 점은?", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "Neo Master Kit의 드릴 스토퍼의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "Sinus Crestal Approach 기구 사용 시 주의해야 할 점은?", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "임플란트 주위염 예방 설계의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "보철물 나사 풀림 해결와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "경쟁사 제품 대비 PickCap 인상재 선택의 차별점은?", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "경쟁사 제품 대비 M5 체어의 에어 썩션(Air Suction)의 차별점은?", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "고객(치과의사)이 M5 체어의 회전형 타구대에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "고객(치과의사)이 ALX 임플란트의 나사산 깊이에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "ALX의 식립 토크 권장 범위와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "신입 직원을 위해 ALX 1.4 Cuff의 용도에 대한 교육 내용을 정리해줘.", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "임상 현장에서 ALX 임플란트의 S-Wide 타입가 중요한 이유는?", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "IT-III active의 식립 깊이 조절의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "고객(치과의사)이 IT-III active의 2.5 Hex 드라이버에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "IT-III active의 1.8 Cuff 장점의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "IS-III active의 0.9 Pitch와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "Neo Master Kit의 드릴 스토퍼 사용 시 주의해야 할 점은?", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "Sinus Crestal Approach 기구와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "임플란트 주위염 예방 설계 사용 시 주의해야 할 점은?", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "보철물 나사 풀림 해결에 대해 자세히 설명해 주세요.", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "경쟁사 제품 대비 PickCap 인상재 선택의 차별점은?", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "M5 체어의 에어 썩션(Air Suction)의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "네오바이오텍의 M5 체어의 회전형 타구대가 무엇인지 알려줘.", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "ALX 임플란트의 나사산 깊이에 대해 자세히 설명해 주세요.", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "ALX의 식립 토크 권장 범위와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "네오바이오텍의 ALX 1.4 Cuff의 용도가 무엇인지 알려줘.", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "ALX 임플란트의 S-Wide 타입와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "경쟁사 제품 대비 IT-III active의 식립 깊이 조절의 차별점은?", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "IT-III active의 2.5 Hex 드라이버의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "IT-III active의 1.8 Cuff 장점 사용 시 주의해야 할 점은?", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "IS-III active의 0.9 Pitch와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "Neo Master Kit의 드릴 스토퍼의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "임상 현장에서 Sinus Crestal Approach 기구가 중요한 이유는?", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "임상 현장에서 임플란트 주위염 예방 설계가 중요한 이유는?", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "보철물 나사 풀림 해결와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "경쟁사 제품 대비 PickCap 인상재 선택의 차별점은?", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "M5 체어의 에어 썩션(Air Suction)와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "경쟁사 제품 대비 M5 체어의 회전형 타구대의 차별점은?", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "ALX 임플란트의 나사산 깊이와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "경쟁사 제품 대비 ALX의 식립 토크 권장 범위의 차별점은?", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "ALX 1.4 Cuff의 용도에 대해 자세히 설명해 주세요.", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "경쟁사 제품 대비 ALX 임플란트의 S-Wide 타입의 차별점은?", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "IT-III active의 식립 깊이 조절의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "IT-III active의 2.5 Hex 드라이버의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "임상 현장에서 IT-III active의 1.8 Cuff 장점가 중요한 이유는?", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "고객(치과의사)이 IS-III active의 0.9 Pitch에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "Neo Master Kit의 드릴 스토퍼의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "경쟁사 제품 대비 Sinus Crestal Approach 기구의 차별점은?", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "임플란트 주위염 예방 설계의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "네오바이오텍의 보철물 나사 풀림 해결가 무엇인지 알려줘.", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "신입 직원을 위해 PickCap 인상재 선택에 대한 교육 내용을 정리해줘.", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "M5 체어의 에어 썩션(Air Suction)의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "M5 체어의 회전형 타구대의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "네오바이오텍의 ALX 임플란트의 나사산 깊이가 무엇인지 알려줘.", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "ALX의 식립 토크 권장 범위에 대해 자세히 설명해 주세요.", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "신입 직원을 위해 ALX 1.4 Cuff의 용도에 대한 교육 내용을 정리해줘.", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "ALX 임플란트의 S-Wide 타입에 대해 자세히 설명해 주세요.", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "경쟁사 제품 대비 IT-III active의 식립 깊이 조절의 차별점은?", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "고객(치과의사)이 IT-III active의 2.5 Hex 드라이버에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "IT-III active의 1.8 Cuff 장점와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "IS-III active의 0.9 Pitch와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "신입 직원을 위해 Neo Master Kit의 드릴 스토퍼에 대한 교육 내용을 정리해줘.", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "Sinus Crestal Approach 기구 사용 시 주의해야 할 점은?", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "경쟁사 제품 대비 임플란트 주위염 예방 설계의 차별점은?", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "보철물 나사 풀림 해결와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "PickCap 인상재 선택에 대해 자세히 설명해 주세요.", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "M5 체어의 에어 썩션(Air Suction)의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "M5 체어의 회전형 타구대 사용 시 주의해야 할 점은?", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "ALX 임플란트의 나사산 깊이에 대해 자세히 설명해 주세요.", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "ALX의 식립 토크 권장 범위 사용 시 주의해야 할 점은?", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "고객(치과의사)이 ALX 1.4 Cuff의 용도에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "ALX 임플란트의 S-Wide 타입 사용 시 주의해야 할 점은?", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "IT-III active의 식립 깊이 조절의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "IT-III active의 2.5 Hex 드라이버의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "네오바이오텍의 IT-III active의 1.8 Cuff 장점가 무엇인지 알려줘.", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "IS-III active의 0.9 Pitch 사용 시 주의해야 할 점은?", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "Neo Master Kit의 드릴 스토퍼의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "Sinus Crestal Approach 기구의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "신입 직원을 위해 임플란트 주위염 예방 설계에 대한 교육 내용을 정리해줘.", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "임상 현장에서 보철물 나사 풀림 해결가 중요한 이유는?", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "PickCap 인상재 선택의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "M5 체어의 에어 썩션(Air Suction)의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "경쟁사 제품 대비 M5 체어의 회전형 타구대의 차별점은?", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "ALX 임플란트의 나사산 깊이에 대해 자세히 설명해 주세요.", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "고객(치과의사)이 ALX의 식립 토크 권장 범위에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "경쟁사 제품 대비 ALX 1.4 Cuff의 용도의 차별점은?", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "ALX 임플란트의 S-Wide 타입에 대해 자세히 설명해 주세요.", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "네오바이오텍의 IT-III active의 식립 깊이 조절가 무엇인지 알려줘.", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "IT-III active의 2.5 Hex 드라이버에 대해 자세히 설명해 주세요.", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "신입 직원을 위해 IT-III active의 1.8 Cuff 장점에 대한 교육 내용을 정리해줘.", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "네오바이오텍의 IS-III active의 0.9 Pitch가 무엇인지 알려줘.", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "Neo Master Kit의 드릴 스토퍼 사용 시 주의해야 할 점은?", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "신입 직원을 위해 Sinus Crestal Approach 기구에 대한 교육 내용을 정리해줘.", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "임플란트 주위염 예방 설계와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "경쟁사 제품 대비 보철물 나사 풀림 해결의 차별점은?", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "임상 현장에서 PickCap 인상재 선택가 중요한 이유는?", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "M5 체어의 에어 썩션(Air Suction)의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "임상 현장에서 M5 체어의 회전형 타구대가 중요한 이유는?", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "ALX 임플란트의 나사산 깊이의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "ALX의 식립 토크 권장 범위와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "네오바이오텍의 ALX 1.4 Cuff의 용도가 무엇인지 알려줘.", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "신입 직원을 위해 ALX 임플란트의 S-Wide 타입에 대한 교육 내용을 정리해줘.", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "임상 현장에서 IT-III active의 식립 깊이 조절가 중요한 이유는?", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}
+{"instruction": "신입 직원을 위해 IT-III active의 2.5 Hex 드라이버에 대한 교육 내용을 정리해줘.", "input": "", "output": "내부 연결에 2.5mm Hex 드라이버를 사용하여 체결력이 우수하고, 장기간 사용 시에도 드라이버가 미끄러지는 현상(Cam-out)을 방지합니다."}
+{"instruction": "임상 현장에서 IT-III active의 1.8 Cuff 장점가 중요한 이유는?", "input": "", "output": "1.8mm Cuff는 잇몸이 얇은 환자에게 적합하며, 보철물 변연(Margin)이 잇몸 하방에 위치하도록 하여 심미성을 높여줍니다."}
+{"instruction": "IS-III active의 0.9 Pitch와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "Ø4.0 이상의 직경에서는 0.9mm의 나사산 간격(Pitch)을 적용하여 식립 속도를 높이고 초기 고정력을 강화했습니다."}
+{"instruction": "임상 현장에서 Neo Master Kit의 드릴 스토퍼가 중요한 이유는?", "input": "", "output": "모든 드릴에 탈착 가능한 스토퍼(Stopper)를 장착할 수 있어, 초보자도 신경 손상 걱정 없이 계획된 깊이만큼 안전하게 드릴링할 수 있습니다."}
+{"instruction": "고객(치과의사)이 Sinus Crestal Approach 기구에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "S-Reamer를 사용하여 상악동 막을 손상시키지 않고 안전하게 치조골을 삭제하며 막을 들어 올릴 수 있습니다."}
+{"instruction": "고객(치과의사)이 임플란트 주위염 예방 설계에 대해 물어보면 어떻게 답해야 해?", "input": "", "output": "네오바이오텍 임플란트는 S.L.A. 표면과 Tight한 커넥션 구조를 통해 세균 침투를 억제하고 임플란트 주위염(Peri-implantitis) 발생 위험을 낮췄습니다."}
+{"instruction": "보철물 나사 풀림 해결의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "Double Hex 구조와 Morse Taper의 냉간 용접(Cold Welding) 효과로 나사가 저절로 풀리는 현상을 근본적으로 차단했습니다."}
+{"instruction": "경쟁사 제품 대비 PickCap 인상재 선택의 차별점은?", "input": "", "output": "PickCap 코핑 사용 시에는 흐름성이 좋은 Light Body 인상재를 먼저 주입하고, 그 위에 Heavy Body를 담은 트레이를 압접하는 것이 좋습니다."}
+{"instruction": "임상 현장에서 M5 체어의 에어 썩션(Air Suction)가 중요한 이유는?", "input": "", "output": "강력한 흡입력을 제공하는 에어 썩션 시스템을 채택하여 수술 중 발생하는 혈액과 타액을 신속하게 제거합니다."}
+{"instruction": "M5 체어의 회전형 타구대와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "타구대(Spittoon)가 환자 쪽으로 90도까지 회전하여, 환자가 몸을 많이 일으키지 않고도 편안하게 입을 헹굴 수 있습니다."}
+{"instruction": "ALX 임플란트의 나사산 깊이의 적용 사례나 효과에 대해 설명해줘.", "input": "", "output": "ALX의 나사산 깊이(Thread Depth)는 0.4mm~0.6mm로 설계되어 있어, 임플란트와 뼈의 접촉 면적(BIC)을 극대화하고 강력한 초기 고정력을 발휘합니다."}
+{"instruction": "ALX의 식립 토크 권장 범위 사용 시 주의해야 할 점은?", "input": "", "output": "성공적인 초기 고정을 위해 35~45 Ncm의 식립 토크를 권장합니다. 50 Ncm 이상의 과도한 토크는 골 괴사를 유발할 수 있으므로 주의해야 합니다."}
+{"instruction": "ALX 1.4 Cuff의 용도와 관련된 기술적 스펙을 알려줘.", "input": "", "output": "1.4mm의 낮은 Cuff는 전치부 심미 영역이나 잇몸이 매우 얇은 케이스에서 금속 노출을 막기 위해 사용됩니다."}
+{"instruction": "임상 현장에서 ALX 임플란트의 S-Wide 타입가 중요한 이유는?", "input": "", "output": "직경 Ø5.5 이상의 S-Wide 타입은 구치부 발치 즉시 식립 시 발치와(Socket)를 효과적으로 채워주어 GBR을 최소화합니다."}
+{"instruction": "IT-III active의 식립 깊이 조절의 구체적인 특징과 장점은 무엇인가요?", "input": "", "output": "Straight Neck 디자인 덕분에 식립 깊이를 자유롭게 조절할 수 있으며, 잇몸 높이에 맞춰 Supracrestal 또는 Equicrestal 식립이 모두 가능합니다."}

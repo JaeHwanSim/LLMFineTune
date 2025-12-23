@@ -1,5 +1,6 @@
 from unsloth import FastLanguageModel
 import torch
+import time
 from trl import SFTTrainer
 from transformers import TrainingArguments, TextStreamer
 from datasets import load_dataset
@@ -7,7 +8,7 @@ from datasets import load_dataset
 # 1. 모델 및 토크나이저 로드 (Hugging Face 기준)
 # 4bit 양자화 모델을 사용하여 3080에서도 여유 있게 실행 가능합니다.
 model, tokenizer = FastLanguageModel.from_pretrained(
-    model_name = "unsloth/gemma-2-9b-it-bnb-4bit",
+    model_name = "unsloth/gemma-3-27b-it-unsloth-bnb-4bit",
     max_seq_length = 2048,
     load_in_4bit = True,
 )
@@ -35,7 +36,7 @@ _ = model.generate(**inputs, streamer = streamer, max_new_tokens = 1024)
 # 4. 데이터셋 준비 (한글 KoAlpaca 맛보기)
 #dataset = load_dataset("beomi/KoAlpaca-v1.1a", split = "train[:500]") # 100개만 사용
 
-dataset = load_dataset("json", data_files="ProductData/neobiotech_qa_100.jsonl", split="train")
+dataset = load_dataset("json", data_files="ProductData/neobiotech_final_1000.jsonl", split="train")
 
 #dataset.save_to_disk("./KoAlpaca-v1.1a.json")
 
@@ -60,18 +61,43 @@ trainer = SFTTrainer(
     train_dataset = dataset,
     dataset_text_field = "text",
     max_seq_length = 2048,
+    dataset_num_proc = 8, # CPU 코어도 넉넉할 테니 데이터 처리 속도 UP
+    packing = False,
     args = TrainingArguments(
-        per_device_train_batch_size = 2,
-        gradient_accumulation_steps = 4,
-        num_train_epochs = 10,
-        #max_steps = 40, # 3080 기준 약 3~5분 소요
+        # [핵심 변경 1] 배치 사이즈 대폭 증가 (VRAM 48GB 활용)
+        per_device_train_batch_size = 2,  # 2 -> 8 (메모리 남으면 16까지 도전 가능)
+        
+        # [핵심 변경 2] 누적 스텝 감소 (업데이트 빈도 증가)
+        gradient_accumulation_steps = 8,  # 4 -> 2
+        
+        # [핵심 변경 3] 4090의 축복 BF16 활성화
+        bf16 = True,       # 4090은 무조건 True
+        fp16 = False,      # 끄기
+        
+        num_train_epochs = 5,
         learning_rate = 2e-4,
-        fp16 = not torch.cuda.is_bf16_supported(),
         logging_steps = 1,
+        
+        # [선택] 4090은 메모리가 넉넉하므로 굳이 8bit 옵티마이저 안 써도 됩니다.
+        # 더 정밀한 학습을 위해 32bit나 paged_adamw_32bit 사용 가능
+        # 물론 adamw_8bit를 써도 성능 차이는 거의 없고 VRAM만 아껴줍니다. (그대로 둬도 무방)
+        optim = "adamw_8bit", 
+        
+        weight_decay = 0.01,
+        lr_scheduler_type = "linear",
+        seed = 3407,
         output_dir = "outputs",
+        
+        # [멀티 GPU] DDP(분산 학습) 관련 설정 (Unsloth가 자동으로 잡지만 명시)
+        ddp_find_unused_parameters = False,
     ),
 )
-trainer.train()
+start_time = time.time()
+trainer_stats = trainer.train()
+end_time = time.time()
+
+training_time = end_time - start_time
+print(f"\n[Training Time] {training_time // 60:.0f}m {training_time % 60:.0f}s")
 
 # 6. [Test After] 학습 후 테스트
 print("\n" + "="*30 + "\n[학습 후 답변 확인]\n" + "="*30)
